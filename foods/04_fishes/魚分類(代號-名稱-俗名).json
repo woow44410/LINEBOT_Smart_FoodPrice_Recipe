@@ -1,0 +1,2717 @@
+{
+    "class": "s",
+    "content": [
+        {
+            "type": 0,
+            "typeName": "全部",
+            "ingredient": [
+                {
+                    "id": "1011",
+                    "name": "吳郭魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1012",
+                    "name": "尼羅紅魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1019",
+                    "name": "其他吳郭",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1021",
+                    "name": "鯉魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1022",
+                    "name": "鯽魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1023",
+                    "name": "草魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1024",
+                    "name": "大頭鰱",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1025",
+                    "name": "竹葉鰱",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1026",
+                    "name": "鯁魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1027",
+                    "name": "烏鰡",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1029",
+                    "name": "其他鯉類",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1031",
+                    "name": "白鰻",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1039",
+                    "name": "其他鰻類",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1041",
+                    "name": "虱目魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1042",
+                    "name": "虱目魚肚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1043",
+                    "name": "虱目魚頭",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1051",
+                    "name": "烏仔魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1061",
+                    "name": "豆仔",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1062",
+                    "name": "烏公(台中)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1063",
+                    "name": "烏母(台中)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1071",
+                    "name": "金目鱸",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1072",
+                    "name": "加州鱸",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1073",
+                    "name": "七星鱸",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1074",
+                    "name": "銀花鱸",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1075",
+                    "name": "龍王",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1081",
+                    "name": "鱺魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1086",
+                    "name": "三角仔【養】",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1091",
+                    "name": "鱔魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1101",
+                    "name": "土剎",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1102",
+                    "name": "泥鰍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1111",
+                    "name": "鯰魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1121",
+                    "name": "鱒魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1131",
+                    "name": "牛蛙",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1141",
+                    "name": "田蛙",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1151",
+                    "name": "甲魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1161",
+                    "name": "加臘(養殖)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1162",
+                    "name": "赤翅(養殖)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1163",
+                    "name": "黑鯛(養殖)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1164",
+                    "name": "紅鰽",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1165",
+                    "name": "黃鍚鯛",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1166",
+                    "name": "海鱺(養殖)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1167",
+                    "name": "黃花(養殖)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1168",
+                    "name": "花身(養殖)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1169",
+                    "name": "其他鯛類(養殖)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1170",
+                    "name": "象魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1171",
+                    "name": "青石斑",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1172",
+                    "name": "淡水珍珠石斑",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1173",
+                    "name": "龍膽石斑",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1174",
+                    "name": "珍珠龍膽/龍虎斑",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1179",
+                    "name": "其他石斑魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1181",
+                    "name": "黃臘鰺(紅杉)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1191",
+                    "name": "香魚(養殖)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1201",
+                    "name": "富貴魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1272",
+                    "name": "午仔魚(養殖)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1366",
+                    "name": "海鱺【履歷】",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1381",
+                    "name": "黃鱲鰺【履歷】",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1511",
+                    "name": "金龍(養殖)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1601",
+                    "name": "烏母(養)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1602",
+                    "name": "烏公(養)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1603",
+                    "name": "烏殼(養)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1799",
+                    "name": "其他黃花(養殖)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "1999",
+                    "name": "其他養殖",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2011",
+                    "name": "加臘(沿海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2012",
+                    "name": "赤宗",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2013",
+                    "name": "盤仔",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2014",
+                    "name": "赤翅(沿海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2015",
+                    "name": "黑鯛(沿海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2016",
+                    "name": "白鯛",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2017",
+                    "name": "花身(沿海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2018",
+                    "name": "大目仔",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2019",
+                    "name": "其他鯛類(沿海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2021",
+                    "name": "金線",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2031",
+                    "name": "赤海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2041",
+                    "name": "秋姑",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2042",
+                    "name": "紅魚(沿海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2047",
+                    "name": "紅新娘",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2048",
+                    "name": "紅鰽海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2051",
+                    "name": "紅目鰱",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2060",
+                    "name": "紅喉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2061",
+                    "name": "黃花(沿海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2062",
+                    "name": "三牙",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2063",
+                    "name": "黑口",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2064",
+                    "name": "白口",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2065",
+                    "name": "火口",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2066",
+                    "name": "油口",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2067",
+                    "name": "鮸魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2069",
+                    "name": "其他黃花(沿海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2071",
+                    "name": "四破",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2072",
+                    "name": "目孔",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2073",
+                    "name": "硬尾",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2074",
+                    "name": "巴闌",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2075",
+                    "name": "紅尾",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2076",
+                    "name": "鐵甲",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2077",
+                    "name": "甘瓜仔",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2078",
+                    "name": "青魽",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2079",
+                    "name": "紅魽",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2080",
+                    "name": "黑魽",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2081",
+                    "name": "油魽",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2082",
+                    "name": "紅古",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2083",
+                    "name": "紅尾冬",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2084",
+                    "name": "黑尾冬",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2085",
+                    "name": "鰺魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2086",
+                    "name": "三角仔",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2091",
+                    "name": "白鯧",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2092",
+                    "name": "黑鯧",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2093",
+                    "name": "銀鯧",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2094",
+                    "name": "西鯧",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2099",
+                    "name": "其他鯧類",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2101",
+                    "name": "臭肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2102",
+                    "name": "青鱗",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2103",
+                    "name": "鱙仔",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2104",
+                    "name": "苦蚵",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2105",
+                    "name": "丁香",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2106",
+                    "name": "勿仔",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2111",
+                    "name": "長鰭鮪",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2112",
+                    "name": "大眼鮪",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2113",
+                    "name": "黃鰭鮪",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2114",
+                    "name": "黑鮪",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2115",
+                    "name": "小串仔",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2116",
+                    "name": "黑鮪肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2119",
+                    "name": "其他鮪魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2121",
+                    "name": "真鰹",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2122",
+                    "name": "花鰹",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2123",
+                    "name": "圓花鰹",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2124",
+                    "name": "煙仔虎",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2129",
+                    "name": "其他鰹類",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2131",
+                    "name": "劍旗魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2132",
+                    "name": "紅肉旗",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2133",
+                    "name": "黑皮旗",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2134",
+                    "name": "白皮旗",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2135",
+                    "name": "雨傘旗",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2136",
+                    "name": "旗魚肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2139",
+                    "name": "其他旗魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2141",
+                    "name": "土魠",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2142",
+                    "name": "馬加",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2143",
+                    "name": "白北",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2144",
+                    "name": "西齒",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2145",
+                    "name": "石喬",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2146",
+                    "name": "闊北",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2149",
+                    "name": "其他鰆類",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2151",
+                    "name": "大鯊",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2152",
+                    "name": "鯊條",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2153",
+                    "name": "鯊煙",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2154",
+                    "name": "鯊翅",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2155",
+                    "name": "角鯊",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2156",
+                    "name": "黑鯊",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2157",
+                    "name": "水鯊",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2158",
+                    "name": "馬加沙",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2159",
+                    "name": "其他鯊魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2160",
+                    "name": "雙髻鮫",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2161",
+                    "name": "魷魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2162",
+                    "name": "墨魚賊",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2163",
+                    "name": "花枝",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2164",
+                    "name": "透抽",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2165",
+                    "name": "軟舌",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2166",
+                    "name": "小卷",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2167",
+                    "name": "闊弓",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2168",
+                    "name": "目斗",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2169",
+                    "name": "章魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2179",
+                    "name": "其他頭足",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2181",
+                    "name": "馬頭魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2191",
+                    "name": "龍尖",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2201",
+                    "name": "石斑魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2202",
+                    "name": "小紅鱠",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2211",
+                    "name": "狗母",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2212",
+                    "name": "花狗母",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2221",
+                    "name": "海鰻",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2231",
+                    "name": "海鯰",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2238",
+                    "name": "海鯽魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2241",
+                    "name": "石鯽",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2242",
+                    "name": "變身苦",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2251",
+                    "name": "皮刀",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2252",
+                    "name": "黑皮刀",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2261",
+                    "name": "肉魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2271",
+                    "name": "午仔魚(沿海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2281",
+                    "name": "飛魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2282",
+                    "name": "飛魚卵",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2291",
+                    "name": "暑魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2292",
+                    "name": "萬引",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2301",
+                    "name": "尖梭",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2302",
+                    "name": "竹梭",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2311",
+                    "name": "西刀",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2321",
+                    "name": "油魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2331",
+                    "name": "鯖魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2341",
+                    "name": "白帶魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2351",
+                    "name": "鱝(魴仔)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2361",
+                    "name": "智仔",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2371",
+                    "name": "烏鞭",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2381",
+                    "name": "青鞭",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2391",
+                    "name": "咬狗",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2401",
+                    "name": "扁魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2411",
+                    "name": "龍舌",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2421",
+                    "name": "白松",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2431",
+                    "name": "厚唇",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2440",
+                    "name": "石狗公",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2441",
+                    "name": "牛尾",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2451",
+                    "name": "金鼓",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2461",
+                    "name": "長加",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2471",
+                    "name": "秋哥",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2481",
+                    "name": "英哥",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2482",
+                    "name": "紅鰱魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2483",
+                    "name": "青衣",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2491",
+                    "name": "海鱺(沿海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2501",
+                    "name": "赤筆",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2511",
+                    "name": "金龍(沿海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2512",
+                    "name": "加志",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2521",
+                    "name": "秋刀",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2531",
+                    "name": "國光",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2532",
+                    "name": "九岩",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2541",
+                    "name": "青筆",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2551",
+                    "name": "沙腸",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2561",
+                    "name": "鰣魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2562",
+                    "name": "什魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2563",
+                    "name": "象魚(臭肚)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2564",
+                    "name": "下雜魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2568",
+                    "name": "肉栓(沿海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2571",
+                    "name": "剝皮魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2572",
+                    "name": "剝皮魚去頭",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2601",
+                    "name": "烏母",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2602",
+                    "name": "烏公",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2603",
+                    "name": "烏殼",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2609",
+                    "name": "其他烏魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2611",
+                    "name": "水針",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2621",
+                    "name": "鯖河魨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2631",
+                    "name": "香魚(沿海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2781",
+                    "name": "鮭魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2782",
+                    "name": "鮭魚頭/尾",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2901",
+                    "name": "翻車魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2997",
+                    "name": "待訂",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2998",
+                    "name": "干貝",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "2999",
+                    "name": "其他非凍結魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3011",
+                    "name": "加臘(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3012",
+                    "name": "赤宗(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3013",
+                    "name": "盤仔(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3014",
+                    "name": "赤翅(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3015",
+                    "name": "黑鯛(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3016",
+                    "name": "白鯛(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3017",
+                    "name": "花身(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3019",
+                    "name": "其他鯛類(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3021",
+                    "name": "金線(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3031",
+                    "name": "赤海(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3041",
+                    "name": "秋姑(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3042",
+                    "name": "紅魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3051",
+                    "name": "紅目鰱(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3060",
+                    "name": "紅喉凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3061",
+                    "name": "黃花凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3062",
+                    "name": "三牙(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3063",
+                    "name": "黑口(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3064",
+                    "name": "白口(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3065",
+                    "name": "火口(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3066",
+                    "name": "油口(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3067",
+                    "name": "鮸魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3071",
+                    "name": "四破(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3073",
+                    "name": "硬尾(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3074",
+                    "name": "巴闌(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3075",
+                    "name": "紅尾(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3076",
+                    "name": "鐵甲(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3077",
+                    "name": "甘(瓜)仔(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3078",
+                    "name": "青魽(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3079",
+                    "name": "紅魽(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3081",
+                    "name": "油魽凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3089",
+                    "name": "其他鰺類(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3091",
+                    "name": "白鯧(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3092",
+                    "name": "黑鯧(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3093",
+                    "name": "銀鯧(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3094",
+                    "name": "西鯧(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3099",
+                    "name": "其他鯧類(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3101",
+                    "name": "臭肉(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3102",
+                    "name": "青鱗(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3103",
+                    "name": "鱙仔(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3104",
+                    "name": "苦蚵(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3105",
+                    "name": "丁香(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3106",
+                    "name": "勿仔(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3109",
+                    "name": "其他溫類(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3111",
+                    "name": "長鰭鮪凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3112",
+                    "name": "大眼鮪凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3113",
+                    "name": "黃鰭鮪凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3114",
+                    "name": "黑鮪凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3115",
+                    "name": "小串仔凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3119",
+                    "name": "其他鮪魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3121",
+                    "name": "真鰹(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3123",
+                    "name": "圓花鰹(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3124",
+                    "name": "煙仔虎(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3129",
+                    "name": "其他鰹類(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3131",
+                    "name": "劍旗魚凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3132",
+                    "name": "紅肉旗(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3133",
+                    "name": "黑皮旗凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3134",
+                    "name": "白皮旗(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3135",
+                    "name": "雨傘旗(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3139",
+                    "name": "其他旗魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3141",
+                    "name": "土魠(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3142",
+                    "name": "馬加(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3143",
+                    "name": "白北(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3144",
+                    "name": "西齒(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3145",
+                    "name": "石喬(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3151",
+                    "name": "大鯊【凍】",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3152",
+                    "name": "沙條(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3153",
+                    "name": "沙煙(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3154",
+                    "name": "沙翅(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3156",
+                    "name": "黑鯊(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3157",
+                    "name": "水鯊凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3158",
+                    "name": "馬加沙凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3159",
+                    "name": "其他沙魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3161",
+                    "name": "魷魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3162",
+                    "name": "墨魚賊(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3163",
+                    "name": "花枝(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3164",
+                    "name": "透抽(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3165",
+                    "name": "軟舌(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3166",
+                    "name": "小卷(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3168",
+                    "name": "目斗(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3169",
+                    "name": "章魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3179",
+                    "name": "其他頭足(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3181",
+                    "name": "馬頭魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3191",
+                    "name": "龍尖(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3201",
+                    "name": "石斑魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3202",
+                    "name": "小紅鱠(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3203",
+                    "name": "紅條(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3211",
+                    "name": "狗母(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3221",
+                    "name": "海鰻(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3231",
+                    "name": "海鯰(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3241",
+                    "name": "石鯽(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3251",
+                    "name": "皮刀(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3252",
+                    "name": "黑皮刀(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3261",
+                    "name": "肉魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3271",
+                    "name": "午仔魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3281",
+                    "name": "飛魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3291",
+                    "name": "暑魚凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3292",
+                    "name": "萬引(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3301",
+                    "name": "尖梭(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3302",
+                    "name": "竹梭凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3311",
+                    "name": "西刀(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3321",
+                    "name": "油魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3331",
+                    "name": "鯖魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3341",
+                    "name": "白帶魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3351",
+                    "name": "鱝(魴仔)(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3371",
+                    "name": "烏鞭(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3391",
+                    "name": "咬狗(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3401",
+                    "name": "扁魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3411",
+                    "name": "龍舌(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3421",
+                    "name": "白松(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3431",
+                    "name": "厚唇(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3441",
+                    "name": "牛尾(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3461",
+                    "name": "長加(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3471",
+                    "name": "秋哥(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3481",
+                    "name": "英哥(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3491",
+                    "name": "海鱺(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3501",
+                    "name": "赤筆(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3511",
+                    "name": "金龍(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3512",
+                    "name": "加志(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3521",
+                    "name": "秋刀(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3531",
+                    "name": "國光(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3541",
+                    "name": "青筆(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3551",
+                    "name": "沙腸(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3561",
+                    "name": "鰣魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3562",
+                    "name": "什魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3564",
+                    "name": "下雜魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3568",
+                    "name": "肉栓(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3571",
+                    "name": "剝皮魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3572",
+                    "name": "剝皮魚去頭【凍】",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3601",
+                    "name": "烏母(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3602",
+                    "name": "烏公(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3603",
+                    "name": "烏殼(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3609",
+                    "name": "其他烏魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3611",
+                    "name": "水針(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3621",
+                    "name": "鯖河魨(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3631",
+                    "name": "香魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3632",
+                    "name": "柳葉魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3641",
+                    "name": "比目魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3642",
+                    "name": "圓鱈",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3660",
+                    "name": "魚腸(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3781",
+                    "name": "鮭魚(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3782",
+                    "name": "鮭魚頭/尾凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3901",
+                    "name": "翻車魚凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3910",
+                    "name": "紅皮刀凍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "3999",
+                    "name": "其他凍結(凍)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4010",
+                    "name": "溪蝦",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4011",
+                    "name": "草蝦海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4012",
+                    "name": "草蝦養",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4015",
+                    "name": "白蝦",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4016",
+                    "name": "蝦仁",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4021",
+                    "name": "沙蝦海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4022",
+                    "name": "沙蝦養",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4032",
+                    "name": "泰國蝦養",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4041",
+                    "name": "紅尾蝦海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4042",
+                    "name": "紅尾蝦養",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4051",
+                    "name": "斑節蝦海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4052",
+                    "name": "斑節蝦養",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4061",
+                    "name": "大正蝦海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4062",
+                    "name": "大正蝦養",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4071",
+                    "name": "劍蝦海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4081",
+                    "name": "白秋蝦海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4091",
+                    "name": "厚殼蝦海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4101",
+                    "name": "紅蝦海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4111",
+                    "name": "蘆蝦海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4121",
+                    "name": "小蝦海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4131",
+                    "name": "龍蝦海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4141",
+                    "name": "蝦姑海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4142",
+                    "name": "蝦猴海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4151",
+                    "name": "赤尾青蝦",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4161",
+                    "name": "櫻花蝦",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4162",
+                    "name": "肉栓(蝦)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4409",
+                    "name": "牛角蟹、黃金蟹",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4509",
+                    "name": "其他蝦類",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4511",
+                    "name": "蟳",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4512",
+                    "name": "紅蟳",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4513",
+                    "name": "三點仔",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4521",
+                    "name": "花市仔",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4522",
+                    "name": "市仔管",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4532",
+                    "name": "菜蟳",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "4999",
+                    "name": "其他蟹類",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5012",
+                    "name": "牡蠣養",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5021",
+                    "name": "文蛤(海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5022",
+                    "name": "文蛤養",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5032",
+                    "name": "蜊(養)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5042",
+                    "name": "血蚶(養)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5051",
+                    "name": "九孔(海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5052",
+                    "name": "九孔(養)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5053",
+                    "name": "鮑魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5061",
+                    "name": "鐘螺(海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5081",
+                    "name": "日月蟶(海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5092",
+                    "name": "蜆(養)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5101",
+                    "name": "竹蟶海",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5111",
+                    "name": "鳳螺(海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5121",
+                    "name": "花螺(海)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5888",
+                    "name": "海瓜子",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5889",
+                    "name": "花蚧子",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5901",
+                    "name": "翻車魚肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "5999",
+                    "name": "其他貝類",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6008",
+                    "name": "圓鱈片",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6009",
+                    "name": "比目魚片",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6010",
+                    "name": "鮭魚片",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6011",
+                    "name": "紅魚(其他)",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6012",
+                    "name": "海參",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6016",
+                    "name": "鮭",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6021",
+                    "name": "鹹魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6031",
+                    "name": "魚丸",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6049",
+                    "name": "其他加工",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6050",
+                    "name": "熟卷",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6051",
+                    "name": "熟小破",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6052",
+                    "name": "烏魚子",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6061",
+                    "name": "熟四破",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6071",
+                    "name": "熟丁香",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6081",
+                    "name": "熟鯖魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6099",
+                    "name": "其他熟魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6101",
+                    "name": "海菜",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6110",
+                    "name": "魚肚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6111",
+                    "name": "魚內臟",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6112",
+                    "name": "魚卵",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6113",
+                    "name": "魚皮",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "6114",
+                    "name": "魚肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "9999",
+                    "name": "其他",
+                    "commName": null,
+                    "like": true
+                }
+            ]
+        }
+    ]
+}

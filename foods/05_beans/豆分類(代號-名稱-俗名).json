@@ -1,0 +1,317 @@
+{
+    "class": "m",
+    "content": [
+        {
+            "type": 0,
+            "typeName": "豆類",
+            "ingredient": [
+                {
+                    "id": "FN5",
+                    "name": "敏豆-醜豆",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FN1",
+                    "name": "敏豆-白豆",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FQ2",
+                    "name": "毛豆-豆仁",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FZ2",
+                    "name": "落花生-熟落花生",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FL6",
+                    "name": "豌豆-甜豌豆",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FP1",
+                    "name": "萊豆-豆莢",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FQ1",
+                    "name": "毛豆-豆莢",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FZ1",
+                    "name": "落花生-生落花生",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FL2",
+                    "name": "豌豆-紅花",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FL1",
+                    "name": "豌豆-白花",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FM1",
+                    "name": "菜豆-白色",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FL5",
+                    "name": "豌豆-豌豆苗",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FM2",
+                    "name": "菜豆-青色",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FM3",
+                    "name": "菜豆-紅色",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FN2",
+                    "name": "敏豆-青豆",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FN3",
+                    "name": "敏豆-粉豆",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FN4",
+                    "name": "敏豆-翼豆",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FO1",
+                    "name": "蠶豆-豆莢",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FO2",
+                    "name": "蠶豆-豆仁",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FP2",
+                    "name": "萊豆-豆仁",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FP3",
+                    "name": "鵲豆-肉豆",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FL4",
+                    "name": "豌豆-豆仁",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FX1",
+                    "name": "花豆-花豆",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FX2",
+                    "name": "虎豆-福豆",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FL3",
+                    "name": "豌豆-豆莢",
+                    "commName": null,
+                    "like": "true"
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "typeName": "豆類(加工)",
+            "ingredient": [
+                {
+                    "id": "FPR1",
+                    "name": "豆腐",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR2",
+                    "name": "豆皮",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR3",
+                    "name": "豆渣",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR4",
+                    "name": "客家豆腐",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR5",
+                    "name": "腐竹、腐衣",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR6",
+                    "name": "腐皮",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR7",
+                    "name": "豆干",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR8",
+                    "name": "素肉絲",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR9",
+                    "name": "麵輪",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR10",
+                    "name": "凍豆腐",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR11",
+                    "name": "豆簽",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR13",
+                    "name": "油豆腐",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR14",
+                    "name": "嫩豆腐、中華",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR15",
+                    "name": "豆腐板豆腐、傳統豆腐、水豆腐",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR16",
+                    "name": "豆腐乳、腐乳",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR17",
+                    "name": "炸腐皮",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR18",
+                    "name": "麵筋",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR19",
+                    "name": "臭豆腐",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR20",
+                    "name": "腐皮、腐竹",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR22",
+                    "name": "百頁豆腐",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR23",
+                    "name": "藥燉素排骨肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR24",
+                    "name": "素甲魚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR25",
+                    "name": "素肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR26",
+                    "name": "烤麩",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "FPR27",
+                    "name": "麵腸",
+                    "commName": null,
+                    "like": true
+                }
+            ]
+        }
+    ]
+}

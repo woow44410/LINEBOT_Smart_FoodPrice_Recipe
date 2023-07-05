@@ -1,0 +1,54 @@
+[
+  {
+    "LivestockProdCode": "C10001",
+    "LivestockProdType": "毛豬"
+  },
+  {
+    "LivestockProdCode": "C10002",
+    "LivestockProdType": "肉牛"
+  },
+  {
+    "LivestockProdCode": "C10003",
+    "LivestockProdType": "乳牛"
+  },
+  {
+    "LivestockProdCode": "C10004",
+    "LivestockProdType": "羊隻"
+  },
+  {
+    "LivestockProdCode": "C10005",
+    "LivestockProdType": "雞蛋"
+  },
+  {
+    "LivestockProdCode": "C10006",
+    "LivestockProdType": "白肉雞"
+  },
+  {
+    "LivestockProdCode": "C10007",
+    "LivestockProdType": "土雞"
+  },
+  {
+    "LivestockProdCode": "C10008",
+    "LivestockProdType": "紅羽土雞"
+  },
+  {
+    "LivestockProdCode": "C10009",
+    "LivestockProdType": "黑羽土雞"
+  },
+  {
+    "LivestockProdCode": "C10010",
+    "LivestockProdType": "肉鵝"
+  },
+  {
+    "LivestockProdCode": "C10011",
+    "LivestockProdType": "鵝"
+  },
+  {
+    "LivestockProdCode": "C10012",
+    "LivestockProdType": "番鴨"
+  },
+  {
+    "LivestockProdCode": "C10013",
+    "LivestockProdType": "鴨蛋"
+  }
+]

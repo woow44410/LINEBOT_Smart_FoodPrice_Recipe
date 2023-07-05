@@ -1,0 +1,55 @@
+{
+    "class":"v",
+    "content":[
+        {
+            "type":0,
+            "typeName":"水生類",
+            "ingredient":["LG2", "SQ3", "LG1", "SX1", "SQ1", "LT3", "SX2", "LF1", "LF2", "SR1", "SV1", "SN1", "LT2", "LM2", "LG5", "LY1", "SZ4", "SX4", "SX3", "LM1", "LM8", "SV3", "SV2", "LF3", "LT1", "SR4", "SR3", "LF8", "LG3", "LG4", "SN2", "LG8"]
+        },
+        {
+            "type":1,
+            "typeName":"調味類",
+            "ingredient":["SE2", "LP1", "SE5", "LP2", "SF1", "SF4", "LS1", "SF3", "SE1", "SE6", "SE4", "SF2", "LV1"]
+        },
+        {
+            "type":2,
+            "typeName":"莖類",
+            "ingredient":["SW1", "SH2", "SH5", "SS1", "SH1", "SI1", "SZ7", "SZ6", "SZ5", "SZ3", "SZ2", "SZ1", "SJ4", "LX2", "LX1", "SH7", "SH6", "SH4", "SH3"]
+        },
+        {
+            "type":3,
+            "typeName":"根類",
+            "ingredient":["SA3", "SA32", "SB2", "SU2", "SJ2", "SA31", "SA6", "SC1", "SL1", "SB1", "SO2", "SO3", "SO1", "SA1", "SD1", "SL2", "SM1", "ST1", "SU1", "SU3", "SK2", "SU4", "SK1", "SJ3", "SJ1", "SA52", "SA5", "SA42", "SA4", "SA22", "SA2", "SA12", "SA11"]
+        },
+        {
+            "type":4,
+            "typeName":"醃漬類",
+            "ingredient":["OB1", "OA2", "OA1", "OL1", "OI4", "OI3", "OI2", "OI1", "OH4", "OH3", "OH2", "OH1", "OG2", "OG1", "OE2", "OE1", "OD1"]
+        },
+        {
+            "type":5,
+            "typeName":"菇類",
+            "ingredient":["MD1", "ME1", "MJ1", "MC1", "ME2", "MH2", "MN2", "MN1", "MM2", "MM1", "ML2", "ML1", "MK2", "MK1", "MJ2", "MI2", "MI1", "MA1", "MH1", "MG2", "MG1", "MF2", "MF1", "MC2", "MB1", "MA2"]
+        },
+        {
+            "type":6,
+            "typeName":"葉菜類",
+            "ingredient":["LH1", "LB1", "LI5", "LB2", "LI3", "LB12", "LB22", "LI4", "LI8", "LK3", "LD1", "LA1", "LB21", "LA2", "LH2", "LO1", "LL1", "LJ3", "LN1", "LJ4", "LE1", "LK2", "LB11", "LC1", "LQ1", "LI1", "LC3", "LI6", "LI2", "LU1", "LY2", "LA3", "LZ2", "LJ5", "LA4", "LA5", "LA6", "LE2", "LD2", "LC2", "LC5"]
+        },
+        {
+            "type":7,
+            "typeName":"豆類",
+            "ingredient":["FN5", "FZ2", "FQ2", "FZ1", "FN1", "FM1", "FL1", "FM2", "FQ1", "FL6", "FL5", "FN4", "FX2", "FX1", "FP3", "FP2", "FP1", "FO2", "FO1", "FN3", "FN2", "FM3", "FL4", "FL3", "FL2"]
+        },
+        {
+            "type":8,
+            "typeName":"瓜類",
+            "ingredient":["FT1", "FT2", "FG1", "FI2", "FG2", "FG4", "FE1", "FU1", "FU2", "FD1", "FI1", "FC1", "FF1", "FT5", "FT7", "FS2", "FC2", "FT6", "FT3", "FE2", "FF4", "FS1", "FI3", "FE3", "FG3", "FF2", "FF3"]
+        },
+        {
+            "type":9,
+            "typeName":"果類",
+            "ingredient":["FB1", "FB11", "FK5", "FB2", "FY3", "FY4", "FY6", "FY7", "FR1", "FJ3", "FK4", "FJ1", "FY5", "FR2", "FY1", "FY2", "FK3", "FJ2"]
+        }
+    ]
+}

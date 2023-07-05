@@ -1,0 +1,88 @@
+{
+    "size": {
+      "width": 2500,
+      "height": 1686
+    },
+    "selected": true,
+    "name": "richmenu-1",
+    "chatBarText": "點我收合",
+    "areas": [
+      {
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 833,
+          "height": 843
+        },
+        "action": {
+          "type": "postback",
+          "displayText": "查詢食材價格",
+          "data":"&menu=1&statusCode=3&"
+        }
+      },
+      {
+        "bounds": {
+          "x": 833,
+          "y": 0,
+          "width": 833,
+          "height": 843
+        },
+        "action": {
+          "type": "postback",
+          "displayText": "幫我想菜單",
+          "data":"&menu=2&statusCode=4&"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1666,
+          "y": 0,
+          "width": 833,
+          "height": 843
+        },
+        "action": {
+          "type": "postback",
+          "displayText": "指定食材食譜",
+          "data":"&menu=3&statusCode=5&"
+        }
+      },
+      {
+        "bounds": {
+          "x": 0,
+          "y": 843,
+          "width": 833,
+          "height": 843
+        },
+        "action": {
+          "type": "postback",
+          "displayText": "指定金額範圍",
+          "data":"&menu=4&statusCode=6&"
+        }
+      },
+      {
+        "bounds": {
+          "x": 833,
+          "y": 843,
+          "width": 833,
+          "height": 843
+        },
+        "action": {
+          "type": "uri",
+          "uri": "https://liff.line.me/1656748829-9amYlYbd"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1666,
+          "y": 843,
+          "width": 833,
+          "height": 843
+        },
+        "action": {
+          "type": "postback",
+          "displayText": "更多功能",
+          "data":"&menu=6&statusCode=8-1&"
+        }
+      }
+   ]
+}

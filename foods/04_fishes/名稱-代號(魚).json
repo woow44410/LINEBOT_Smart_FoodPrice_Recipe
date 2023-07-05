@@ -1,0 +1,1902 @@
+[
+  {
+    "SeafoodProdCode": "1011",
+    "SeafoodProdName": "吳郭魚"
+  },
+  {
+    "SeafoodProdCode": "1012",
+    "SeafoodProdName": "尼羅紅魚"
+  },
+  {
+    "SeafoodProdCode": "1019",
+    "SeafoodProdName": "其他吳郭"
+  },
+  {
+    "SeafoodProdCode": "1021",
+    "SeafoodProdName": "鯉魚"
+  },
+  {
+    "SeafoodProdCode": "1022",
+    "SeafoodProdName": "鯽魚"
+  },
+  {
+    "SeafoodProdCode": "1023",
+    "SeafoodProdName": "草魚"
+  },
+  {
+    "SeafoodProdCode": "1024",
+    "SeafoodProdName": "大頭鰱"
+  },
+  {
+    "SeafoodProdCode": "1025",
+    "SeafoodProdName": "竹葉鰱"
+  },
+  {
+    "SeafoodProdCode": "1026",
+    "SeafoodProdName": "鯁魚"
+  },
+  {
+    "SeafoodProdCode": "1027",
+    "SeafoodProdName": "烏鰡"
+  },
+  {
+    "SeafoodProdCode": "1029",
+    "SeafoodProdName": "其他鯉類"
+  },
+  {
+    "SeafoodProdCode": "1031",
+    "SeafoodProdName": "白鰻"
+  },
+  {
+    "SeafoodProdCode": "1039",
+    "SeafoodProdName": "其他鰻類"
+  },
+  {
+    "SeafoodProdCode": "1041",
+    "SeafoodProdName": "虱目魚"
+  },
+  {
+    "SeafoodProdCode": "1042",
+    "SeafoodProdName": "虱目魚肚"
+  },
+  {
+    "SeafoodProdCode": "1043",
+    "SeafoodProdName": "虱目魚頭"
+  },
+  {
+    "SeafoodProdCode": "1051",
+    "SeafoodProdName": "烏仔魚"
+  },
+  {
+    "SeafoodProdCode": "1061",
+    "SeafoodProdName": "豆仔"
+  },
+  {
+    "SeafoodProdCode": "1062",
+    "SeafoodProdName": "烏公(台中)"
+  },
+  {
+    "SeafoodProdCode": "1063",
+    "SeafoodProdName": "烏母(台中)"
+  },
+  {
+    "SeafoodProdCode": "1071",
+    "SeafoodProdName": "金目鱸"
+  },
+  {
+    "SeafoodProdCode": "1072",
+    "SeafoodProdName": "加州鱸"
+  },
+  {
+    "SeafoodProdCode": "1073",
+    "SeafoodProdName": "七星鱸"
+  },
+  {
+    "SeafoodProdCode": "1074",
+    "SeafoodProdName": "銀花鱸"
+  },
+  {
+    "SeafoodProdCode": "1075",
+    "SeafoodProdName": "龍王"
+  },
+  {
+    "SeafoodProdCode": "1081",
+    "SeafoodProdName": "鱺魚"
+  },
+  {
+    "SeafoodProdCode": "1086",
+    "SeafoodProdName": "三角仔【養】"
+  },
+  {
+    "SeafoodProdCode": "1091",
+    "SeafoodProdName": "鱔魚"
+  },
+  {
+    "SeafoodProdCode": "1101",
+    "SeafoodProdName": "土剎"
+  },
+  {
+    "SeafoodProdCode": "1102",
+    "SeafoodProdName": "泥鰍"
+  },
+  {
+    "SeafoodProdCode": "1111",
+    "SeafoodProdName": "鯰魚"
+  },
+  {
+    "SeafoodProdCode": "1121",
+    "SeafoodProdName": "鱒魚"
+  },
+  {
+    "SeafoodProdCode": "1131",
+    "SeafoodProdName": "牛蛙"
+  },
+  {
+    "SeafoodProdCode": "1141",
+    "SeafoodProdName": "田蛙"
+  },
+  {
+    "SeafoodProdCode": "1151",
+    "SeafoodProdName": "甲魚"
+  },
+  {
+    "SeafoodProdCode": "1161",
+    "SeafoodProdName": "加臘(養殖)"
+  },
+  {
+    "SeafoodProdCode": "1162",
+    "SeafoodProdName": "赤翅(養殖)"
+  },
+  {
+    "SeafoodProdCode": "1163",
+    "SeafoodProdName": "黑鯛(養殖)"
+  },
+  {
+    "SeafoodProdCode": "1164",
+    "SeafoodProdName": "紅鰽"
+  },
+  {
+    "SeafoodProdCode": "1165",
+    "SeafoodProdName": "黃鍚鯛"
+  },
+  {
+    "SeafoodProdCode": "1166",
+    "SeafoodProdName": "海鱺(養殖)"
+  },
+  {
+    "SeafoodProdCode": "1167",
+    "SeafoodProdName": "黃花(養殖)"
+  },
+  {
+    "SeafoodProdCode": "1168",
+    "SeafoodProdName": "花身(養殖)"
+  },
+  {
+    "SeafoodProdCode": "1169",
+    "SeafoodProdName": "其他鯛類(養殖)"
+  },
+  {
+    "SeafoodProdCode": "1170",
+    "SeafoodProdName": "象魚"
+  },
+  {
+    "SeafoodProdCode": "1171",
+    "SeafoodProdName": "青石斑"
+  },
+  {
+    "SeafoodProdCode": "1171",
+    "SeafoodProdName": "青斑"
+  },
+  {
+    "SeafoodProdCode": "1172",
+    "SeafoodProdName": "淡水珍珠石斑"
+  },
+  {
+    "SeafoodProdCode": "1173",
+    "SeafoodProdName": "龍膽石斑"
+  },
+  {
+    "SeafoodProdCode": "1174",
+    "SeafoodProdName": "珍珠龍膽"
+  },
+  {
+    "SeafoodProdCode": "1174",
+    "SeafoodProdName": "珍珠龍膽/龍虎斑"
+  },
+  {
+    "SeafoodProdCode": "1179",
+    "SeafoodProdName": "其他石斑魚"
+  },
+  {
+    "SeafoodProdCode": "1181",
+    "SeafoodProdName": "黃臘鰺(紅杉)"
+  },
+  {
+    "SeafoodProdCode": "1191",
+    "SeafoodProdName": "香魚(養殖)"
+  },
+  {
+    "SeafoodProdCode": "1201",
+    "SeafoodProdName": "富貴魚"
+  },
+  {
+    "SeafoodProdCode": "1272",
+    "SeafoodProdName": "午仔魚(養殖)"
+  },
+  {
+    "SeafoodProdCode": "1366",
+    "SeafoodProdName": "海鱺【履歷】"
+  },
+  {
+    "SeafoodProdCode": "1381",
+    "SeafoodProdName": "黃鱲鰺【履歷】"
+  },
+  {
+    "SeafoodProdCode": "1511",
+    "SeafoodProdName": "金龍(養殖)"
+  },
+  {
+    "SeafoodProdCode": "1601",
+    "SeafoodProdName": "烏母(養)"
+  },
+  {
+    "SeafoodProdCode": "1602",
+    "SeafoodProdName": "烏公(養)"
+  },
+  {
+    "SeafoodProdCode": "1603",
+    "SeafoodProdName": "烏殼(養)"
+  },
+  {
+    "SeafoodProdCode": "1799",
+    "SeafoodProdName": "其他黃花(養殖)"
+  },
+  {
+    "SeafoodProdCode": "1999",
+    "SeafoodProdName": "其他養殖"
+  },
+  {
+    "SeafoodProdCode": "2011",
+    "SeafoodProdName": "加臘(沿海)"
+  },
+  {
+    "SeafoodProdCode": "2012",
+    "SeafoodProdName": "赤宗"
+  },
+  {
+    "SeafoodProdCode": "2013",
+    "SeafoodProdName": "盤仔"
+  },
+  {
+    "SeafoodProdCode": "2014",
+    "SeafoodProdName": "赤翅(沿海)"
+  },
+  {
+    "SeafoodProdCode": "2015",
+    "SeafoodProdName": "黑鯛(沿海)"
+  },
+  {
+    "SeafoodProdCode": "2016",
+    "SeafoodProdName": "白鯛"
+  },
+  {
+    "SeafoodProdCode": "2017",
+    "SeafoodProdName": "花身(沿海)"
+  },
+  {
+    "SeafoodProdCode": "2018",
+    "SeafoodProdName": "大目仔"
+  },
+  {
+    "SeafoodProdCode": "2019",
+    "SeafoodProdName": "其他鯛類(沿海)"
+  },
+  {
+    "SeafoodProdCode": "2021",
+    "SeafoodProdName": "金線"
+  },
+  {
+    "SeafoodProdCode": "2031",
+    "SeafoodProdName": "赤海"
+  },
+  {
+    "SeafoodProdCode": "2041",
+    "SeafoodProdName": "秋姑"
+  },
+  {
+    "SeafoodProdCode": "2042",
+    "SeafoodProdName": "紅魚(沿海)"
+  },
+  {
+    "SeafoodProdCode": "2047",
+    "SeafoodProdName": "紅新娘"
+  },
+  {
+    "SeafoodProdCode": "2048",
+    "SeafoodProdName": "紅鰽海"
+  },
+  {
+    "SeafoodProdCode": "2051",
+    "SeafoodProdName": "紅目鰱"
+  },
+  {
+    "SeafoodProdCode": "2060",
+    "SeafoodProdName": "紅喉"
+  },
+  {
+    "SeafoodProdCode": "2061",
+    "SeafoodProdName": "黃花(沿海)"
+  },
+  {
+    "SeafoodProdCode": "2062",
+    "SeafoodProdName": "三牙"
+  },
+  {
+    "SeafoodProdCode": "2063",
+    "SeafoodProdName": "黑口"
+  },
+  {
+    "SeafoodProdCode": "2064",
+    "SeafoodProdName": "白口"
+  },
+  {
+    "SeafoodProdCode": "2065",
+    "SeafoodProdName": "火口"
+  },
+  {
+    "SeafoodProdCode": "2066",
+    "SeafoodProdName": "油口"
+  },
+  {
+    "SeafoodProdCode": "2067",
+    "SeafoodProdName": "鮸魚"
+  },
+  {
+    "SeafoodProdCode": "2069",
+    "SeafoodProdName": "其他黃花(沿海)"
+  },
+  {
+    "SeafoodProdCode": "2071",
+    "SeafoodProdName": "四破"
+  },
+  {
+    "SeafoodProdCode": "2072",
+    "SeafoodProdName": "目孔"
+  },
+  {
+    "SeafoodProdCode": "2073",
+    "SeafoodProdName": "硬尾"
+  },
+  {
+    "SeafoodProdCode": "2074",
+    "SeafoodProdName": "巴闌"
+  },
+  {
+    "SeafoodProdCode": "2075",
+    "SeafoodProdName": "紅尾"
+  },
+  {
+    "SeafoodProdCode": "2076",
+    "SeafoodProdName": "鐵甲"
+  },
+  {
+    "SeafoodProdCode": "2077",
+    "SeafoodProdName": "甘瓜仔"
+  },
+  {
+    "SeafoodProdCode": "2077",
+    "SeafoodProdName": "甘(瓜)仔"
+  },
+  {
+    "SeafoodProdCode": "2078",
+    "SeafoodProdName": "青魽"
+  },
+  {
+    "SeafoodProdCode": "2079",
+    "SeafoodProdName": "紅魽"
+  },
+  {
+    "SeafoodProdCode": "2080",
+    "SeafoodProdName": "黑魽"
+  },
+  {
+    "SeafoodProdCode": "2081",
+    "SeafoodProdName": "油魽"
+  },
+  {
+    "SeafoodProdCode": "2082",
+    "SeafoodProdName": "紅古"
+  },
+  {
+    "SeafoodProdCode": "2083",
+    "SeafoodProdName": "紅尾冬"
+  },
+  {
+    "SeafoodProdCode": "2084",
+    "SeafoodProdName": "黑尾冬"
+  },
+  {
+    "SeafoodProdCode": "2085",
+    "SeafoodProdName": "鰺魚"
+  },
+  {
+    "SeafoodProdCode": "2086",
+    "SeafoodProdName": "三角仔"
+  },
+  {
+    "SeafoodProdCode": "2089",
+    "SeafoodProdName": "其他鰺類"
+  },
+  {
+    "SeafoodProdCode": "2091",
+    "SeafoodProdName": "白鯧"
+  },
+  {
+    "SeafoodProdCode": "2092",
+    "SeafoodProdName": "黑鯧"
+  },
+  {
+    "SeafoodProdCode": "2093",
+    "SeafoodProdName": "銀鯧"
+  },
+  {
+    "SeafoodProdCode": "2094",
+    "SeafoodProdName": "西鯧"
+  },
+  {
+    "SeafoodProdCode": "2099",
+    "SeafoodProdName": "其他鯧類"
+  },
+  {
+    "SeafoodProdCode": "2101",
+    "SeafoodProdName": "臭肉"
+  },
+  {
+    "SeafoodProdCode": "2102",
+    "SeafoodProdName": "青鱗"
+  },
+  {
+    "SeafoodProdCode": "2103",
+    "SeafoodProdName": "鱙仔"
+  },
+  {
+    "SeafoodProdCode": "2104",
+    "SeafoodProdName": "苦蚵"
+  },
+  {
+    "SeafoodProdCode": "2105",
+    "SeafoodProdName": "丁香"
+  },
+  {
+    "SeafoodProdCode": "2106",
+    "SeafoodProdName": "勿仔"
+  },
+  {
+    "SeafoodProdCode": "2109",
+    "SeafoodProdName": "其他鰮類"
+  },
+  {
+    "SeafoodProdCode": "2109",
+    "SeafoodProdName": "其他溫類"
+  },
+  {
+    "SeafoodProdCode": "2111",
+    "SeafoodProdName": "長鰭鮪"
+  },
+  {
+    "SeafoodProdCode": "2112",
+    "SeafoodProdName": "大眼鮪"
+  },
+  {
+    "SeafoodProdCode": "2113",
+    "SeafoodProdName": "黃鰭鮪"
+  },
+  {
+    "SeafoodProdCode": "2114",
+    "SeafoodProdName": "黑鮪"
+  },
+  {
+    "SeafoodProdCode": "2115",
+    "SeafoodProdName": "小串仔"
+  },
+  {
+    "SeafoodProdCode": "2116",
+    "SeafoodProdName": "黑鮪肉"
+  },
+  {
+    "SeafoodProdCode": "2119",
+    "SeafoodProdName": "其他鮪魚"
+  },
+  {
+    "SeafoodProdCode": "2121",
+    "SeafoodProdName": "真鰹"
+  },
+  {
+    "SeafoodProdCode": "2122",
+    "SeafoodProdName": "花鰹"
+  },
+  {
+    "SeafoodProdCode": "2123",
+    "SeafoodProdName": "圓花鰹"
+  },
+  {
+    "SeafoodProdCode": "2124",
+    "SeafoodProdName": "煙仔虎"
+  },
+  {
+    "SeafoodProdCode": "2129",
+    "SeafoodProdName": "其他鰹類"
+  },
+  {
+    "SeafoodProdCode": "2131",
+    "SeafoodProdName": "劍旗魚"
+  },
+  {
+    "SeafoodProdCode": "2132",
+    "SeafoodProdName": "紅肉旗"
+  },
+  {
+    "SeafoodProdCode": "2133",
+    "SeafoodProdName": "黑皮旗"
+  },
+  {
+    "SeafoodProdCode": "2134",
+    "SeafoodProdName": "白皮旗"
+  },
+  {
+    "SeafoodProdCode": "2135",
+    "SeafoodProdName": "雨傘旗"
+  },
+  {
+    "SeafoodProdCode": "2136",
+    "SeafoodProdName": "旗魚肉"
+  },
+  {
+    "SeafoodProdCode": "2139",
+    "SeafoodProdName": "其他旗魚"
+  },
+  {
+    "SeafoodProdCode": "2141",
+    "SeafoodProdName": "土魠"
+  },
+  {
+    "SeafoodProdCode": "2142",
+    "SeafoodProdName": "馬加"
+  },
+  {
+    "SeafoodProdCode": "2143",
+    "SeafoodProdName": "白北"
+  },
+  {
+    "SeafoodProdCode": "2144",
+    "SeafoodProdName": "西齒"
+  },
+  {
+    "SeafoodProdCode": "2145",
+    "SeafoodProdName": "石喬"
+  },
+  {
+    "SeafoodProdCode": "2146",
+    "SeafoodProdName": "闊北"
+  },
+  {
+    "SeafoodProdCode": "2149",
+    "SeafoodProdName": "其他鰆類"
+  },
+  {
+    "SeafoodProdCode": "2151",
+    "SeafoodProdName": "大鯊"
+  },
+  {
+    "SeafoodProdCode": "2152",
+    "SeafoodProdName": "鯊條"
+  },
+  {
+    "SeafoodProdCode": "2153",
+    "SeafoodProdName": "鯊煙"
+  },
+  {
+    "SeafoodProdCode": "2154",
+    "SeafoodProdName": "鯊翅"
+  },
+  {
+    "SeafoodProdCode": "2155",
+    "SeafoodProdName": "角鯊"
+  },
+  {
+    "SeafoodProdCode": "2156",
+    "SeafoodProdName": "黑鯊"
+  },
+  {
+    "SeafoodProdCode": "2157",
+    "SeafoodProdName": "水鯊"
+  },
+  {
+    "SeafoodProdCode": "2158",
+    "SeafoodProdName": "馬加沙"
+  },
+  {
+    "SeafoodProdCode": "2159",
+    "SeafoodProdName": "其他鯊魚"
+  },
+  {
+    "SeafoodProdCode": "2160",
+    "SeafoodProdName": "雙髻鮫"
+  },
+  {
+    "SeafoodProdCode": "2161",
+    "SeafoodProdName": "魷魚"
+  },
+  {
+    "SeafoodProdCode": "2162",
+    "SeafoodProdName": "墨魚賊"
+  },
+  {
+    "SeafoodProdCode": "2163",
+    "SeafoodProdName": "花枝"
+  },
+  {
+    "SeafoodProdCode": "2164",
+    "SeafoodProdName": "透抽"
+  },
+  {
+    "SeafoodProdCode": "2165",
+    "SeafoodProdName": "軟舌"
+  },
+  {
+    "SeafoodProdCode": "2166",
+    "SeafoodProdName": "小卷"
+  },
+  {
+    "SeafoodProdCode": "2167",
+    "SeafoodProdName": "闊弓"
+  },
+  {
+    "SeafoodProdCode": "2168",
+    "SeafoodProdName": "目斗"
+  },
+  {
+    "SeafoodProdCode": "2169",
+    "SeafoodProdName": "章魚"
+  },
+  {
+    "SeafoodProdCode": "2179",
+    "SeafoodProdName": "其他頭足"
+  },
+  {
+    "SeafoodProdCode": "2181",
+    "SeafoodProdName": "馬頭魚"
+  },
+  {
+    "SeafoodProdCode": "2191",
+    "SeafoodProdName": "龍尖"
+  },
+  {
+    "SeafoodProdCode": "2191",
+    "SeafoodProdName": "龍尖、青嘴"
+  },
+  {
+    "SeafoodProdCode": "2201",
+    "SeafoodProdName": "石斑魚"
+  },
+  {
+    "SeafoodProdCode": "2202",
+    "SeafoodProdName": "小紅鱠"
+  },
+  {
+    "SeafoodProdCode": "2211",
+    "SeafoodProdName": "狗母"
+  },
+  {
+    "SeafoodProdCode": "2212",
+    "SeafoodProdName": "花狗母"
+  },
+  {
+    "SeafoodProdCode": "2221",
+    "SeafoodProdName": "海鰻"
+  },
+  {
+    "SeafoodProdCode": "2231",
+    "SeafoodProdName": "海鯰"
+  },
+  {
+    "SeafoodProdCode": "2238",
+    "SeafoodProdName": "海鯽魚"
+  },
+  {
+    "SeafoodProdCode": "2241",
+    "SeafoodProdName": "石鯽"
+  },
+  {
+    "SeafoodProdCode": "2242",
+    "SeafoodProdName": "變身苦"
+  },
+  {
+    "SeafoodProdCode": "2251",
+    "SeafoodProdName": "皮刀"
+  },
+  {
+    "SeafoodProdCode": "2252",
+    "SeafoodProdName": "黑皮刀"
+  },
+  {
+    "SeafoodProdCode": "2261",
+    "SeafoodProdName": "肉魚"
+  },
+  {
+    "SeafoodProdCode": "2271",
+    "SeafoodProdName": "午仔魚(沿海)"
+  },
+  {
+    "SeafoodProdCode": "2281",
+    "SeafoodProdName": "飛魚"
+  },
+  {
+    "SeafoodProdCode": "2282",
+    "SeafoodProdName": "飛魚卵"
+  },
+  {
+    "SeafoodProdCode": "2291",
+    "SeafoodProdName": "暑魚"
+  },
+  {
+    "SeafoodProdCode": "2292",
+    "SeafoodProdName": "萬引"
+  },
+  {
+    "SeafoodProdCode": "2301",
+    "SeafoodProdName": "尖梭"
+  },
+  {
+    "SeafoodProdCode": "2302",
+    "SeafoodProdName": "竹梭"
+  },
+  {
+    "SeafoodProdCode": "2311",
+    "SeafoodProdName": "西刀"
+  },
+  {
+    "SeafoodProdCode": "2321",
+    "SeafoodProdName": "油魚"
+  },
+  {
+    "SeafoodProdCode": "2331",
+    "SeafoodProdName": "鯖魚"
+  },
+  {
+    "SeafoodProdCode": "2341",
+    "SeafoodProdName": "（日本）白帶魚"
+  },
+  {
+    "SeafoodProdCode": "2341",
+    "SeafoodProdName": "白帶魚"
+  },
+  {
+    "SeafoodProdCode": "2351",
+    "SeafoodProdName": "鱝(魴仔)"
+  },
+  {
+    "SeafoodProdCode": "2361",
+    "SeafoodProdName": "智仔"
+  },
+  {
+    "SeafoodProdCode": "2371",
+    "SeafoodProdName": "烏鞭"
+  },
+  {
+    "SeafoodProdCode": "2381",
+    "SeafoodProdName": "青鞭"
+  },
+  {
+    "SeafoodProdCode": "2391",
+    "SeafoodProdName": "咬狗"
+  },
+  {
+    "SeafoodProdCode": "2401",
+    "SeafoodProdName": "扁魚"
+  },
+  {
+    "SeafoodProdCode": "2411",
+    "SeafoodProdName": "龍舌"
+  },
+  {
+    "SeafoodProdCode": "2421",
+    "SeafoodProdName": "白松"
+  },
+  {
+    "SeafoodProdCode": "2431",
+    "SeafoodProdName": "厚唇"
+  },
+  {
+    "SeafoodProdCode": "2440",
+    "SeafoodProdName": "石狗公"
+  },
+  {
+    "SeafoodProdCode": "2441",
+    "SeafoodProdName": "牛尾"
+  },
+  {
+    "SeafoodProdCode": "2451",
+    "SeafoodProdName": "金鼓"
+  },
+  {
+    "SeafoodProdCode": "2461",
+    "SeafoodProdName": "長加"
+  },
+  {
+    "SeafoodProdCode": "2471",
+    "SeafoodProdName": "秋哥"
+  },
+  {
+    "SeafoodProdCode": "2481",
+    "SeafoodProdName": "英哥"
+  },
+  {
+    "SeafoodProdCode": "2482",
+    "SeafoodProdName": "紅鰱魚"
+  },
+  {
+    "SeafoodProdCode": "2483",
+    "SeafoodProdName": "青衣"
+  },
+  {
+    "SeafoodProdCode": "2491",
+    "SeafoodProdName": "海鱺(沿海)"
+  },
+  {
+    "SeafoodProdCode": "2501",
+    "SeafoodProdName": "赤筆"
+  },
+  {
+    "SeafoodProdCode": "2511",
+    "SeafoodProdName": "金龍(沿海)"
+  },
+  {
+    "SeafoodProdCode": "2512",
+    "SeafoodProdName": "加志"
+  },
+  {
+    "SeafoodProdCode": "2521",
+    "SeafoodProdName": "秋刀"
+  },
+  {
+    "SeafoodProdCode": "2531",
+    "SeafoodProdName": "國光"
+  },
+  {
+    "SeafoodProdCode": "2531",
+    "SeafoodProdName": "國光、角仔魚"
+  },
+  {
+    "SeafoodProdCode": "2532",
+    "SeafoodProdName": "九岩"
+  },
+  {
+    "SeafoodProdCode": "2541",
+    "SeafoodProdName": "青筆"
+  },
+  {
+    "SeafoodProdCode": "2541",
+    "SeafoodProdName": "青筆、雞仔魚"
+  },
+  {
+    "SeafoodProdCode": "2551",
+    "SeafoodProdName": "沙腸"
+  },
+  {
+    "SeafoodProdCode": "2561",
+    "SeafoodProdName": "鰣魚"
+  },
+  {
+    "SeafoodProdCode": "2562",
+    "SeafoodProdName": "什魚"
+  },
+  {
+    "SeafoodProdCode": "2563",
+    "SeafoodProdName": "象魚(臭肚)"
+  },
+  {
+    "SeafoodProdCode": "2564",
+    "SeafoodProdName": "下雜魚"
+  },
+  {
+    "SeafoodProdCode": "2568",
+    "SeafoodProdName": "肉栓(沿海)"
+  },
+  {
+    "SeafoodProdCode": "2571",
+    "SeafoodProdName": "剝皮魚"
+  },
+  {
+    "SeafoodProdCode": "2572",
+    "SeafoodProdName": "剝皮魚去頭"
+  },
+  {
+    "SeafoodProdCode": "2601",
+    "SeafoodProdName": "烏母"
+  },
+  {
+    "SeafoodProdCode": "2602",
+    "SeafoodProdName": "烏公"
+  },
+  {
+    "SeafoodProdCode": "2603",
+    "SeafoodProdName": "烏殼"
+  },
+  {
+    "SeafoodProdCode": "2609",
+    "SeafoodProdName": "其他烏魚"
+  },
+  {
+    "SeafoodProdCode": "2611",
+    "SeafoodProdName": "水針"
+  },
+  {
+    "SeafoodProdCode": "2621",
+    "SeafoodProdName": "鯖河魨"
+  },
+  {
+    "SeafoodProdCode": "2631",
+    "SeafoodProdName": "香魚(沿海)"
+  },
+  {
+    "SeafoodProdCode": "2781",
+    "SeafoodProdName": "鮭魚"
+  },
+  {
+    "SeafoodProdCode": "2782",
+    "SeafoodProdName": "鮭魚頭/尾"
+  },
+  {
+    "SeafoodProdCode": "2901",
+    "SeafoodProdName": "翻車魚"
+  },
+  {
+    "SeafoodProdCode": "2997",
+    "SeafoodProdName": "待訂"
+  },
+  {
+    "SeafoodProdCode": "2998",
+    "SeafoodProdName": "干貝"
+  },
+  {
+    "SeafoodProdCode": "2999",
+    "SeafoodProdName": "其他非凍結魚"
+  },
+  {
+    "SeafoodProdCode": "3011",
+    "SeafoodProdName": "加臘(凍)"
+  },
+  {
+    "SeafoodProdCode": "3012",
+    "SeafoodProdName": "赤宗(凍)"
+  },
+  {
+    "SeafoodProdCode": "3013",
+    "SeafoodProdName": "盤仔(凍)"
+  },
+  {
+    "SeafoodProdCode": "3014",
+    "SeafoodProdName": "赤翅(凍)"
+  },
+  {
+    "SeafoodProdCode": "3015",
+    "SeafoodProdName": "黑鯛(凍)"
+  },
+  {
+    "SeafoodProdCode": "3016",
+    "SeafoodProdName": "白鯛(凍)"
+  },
+  {
+    "SeafoodProdCode": "3017",
+    "SeafoodProdName": "花身(凍)"
+  },
+  {
+    "SeafoodProdCode": "3019",
+    "SeafoodProdName": "其他鯛類(凍)"
+  },
+  {
+    "SeafoodProdCode": "3021",
+    "SeafoodProdName": "金線(凍)"
+  },
+  {
+    "SeafoodProdCode": "3031",
+    "SeafoodProdName": "赤海(凍)"
+  },
+  {
+    "SeafoodProdCode": "3041",
+    "SeafoodProdName": "秋姑(凍)"
+  },
+  {
+    "SeafoodProdCode": "3042",
+    "SeafoodProdName": "紅魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3051",
+    "SeafoodProdName": "紅目鰱(凍)"
+  },
+  {
+    "SeafoodProdCode": "3060",
+    "SeafoodProdName": "紅喉凍"
+  },
+  {
+    "SeafoodProdCode": "3061",
+    "SeafoodProdName": "黃花(凍)"
+  },
+  {
+    "SeafoodProdCode": "3061",
+    "SeafoodProdName": "黃花凍"
+  },
+  {
+    "SeafoodProdCode": "3062",
+    "SeafoodProdName": "三牙(凍)"
+  },
+  {
+    "SeafoodProdCode": "3063",
+    "SeafoodProdName": "黑口(凍)"
+  },
+  {
+    "SeafoodProdCode": "3064",
+    "SeafoodProdName": "白口(凍)"
+  },
+  {
+    "SeafoodProdCode": "3065",
+    "SeafoodProdName": "火口(凍)"
+  },
+  {
+    "SeafoodProdCode": "3066",
+    "SeafoodProdName": "油口(凍)"
+  },
+  {
+    "SeafoodProdCode": "3067",
+    "SeafoodProdName": "鮸魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3071",
+    "SeafoodProdName": "四破(凍)"
+  },
+  {
+    "SeafoodProdCode": "3073",
+    "SeafoodProdName": "硬尾(凍)"
+  },
+  {
+    "SeafoodProdCode": "3074",
+    "SeafoodProdName": "巴闌(凍)"
+  },
+  {
+    "SeafoodProdCode": "3075",
+    "SeafoodProdName": "紅尾(凍)"
+  },
+  {
+    "SeafoodProdCode": "3076",
+    "SeafoodProdName": "鐵甲(凍)"
+  },
+  {
+    "SeafoodProdCode": "3077",
+    "SeafoodProdName": "甘(瓜)仔(凍)"
+  },
+  {
+    "SeafoodProdCode": "3078",
+    "SeafoodProdName": "青魽(凍)"
+  },
+  {
+    "SeafoodProdCode": "3079",
+    "SeafoodProdName": "紅魽(凍)"
+  },
+  {
+    "SeafoodProdCode": "3081",
+    "SeafoodProdName": "油魽(凍)"
+  },
+  {
+    "SeafoodProdCode": "3081",
+    "SeafoodProdName": "油魽凍"
+  },
+  {
+    "SeafoodProdCode": "3089",
+    "SeafoodProdName": "其他鰺類(凍)"
+  },
+  {
+    "SeafoodProdCode": "3091",
+    "SeafoodProdName": "白鯧(凍)"
+  },
+  {
+    "SeafoodProdCode": "3092",
+    "SeafoodProdName": "黑鯧(凍)"
+  },
+  {
+    "SeafoodProdCode": "3093",
+    "SeafoodProdName": "銀鯧(凍)"
+  },
+  {
+    "SeafoodProdCode": "3094",
+    "SeafoodProdName": "西鯧(凍)"
+  },
+  {
+    "SeafoodProdCode": "3099",
+    "SeafoodProdName": "其他鯧類(凍)"
+  },
+  {
+    "SeafoodProdCode": "3101",
+    "SeafoodProdName": "臭肉(凍)"
+  },
+  {
+    "SeafoodProdCode": "3102",
+    "SeafoodProdName": "青鱗(凍)"
+  },
+  {
+    "SeafoodProdCode": "3103",
+    "SeafoodProdName": "鱙仔(凍)"
+  },
+  {
+    "SeafoodProdCode": "3104",
+    "SeafoodProdName": "苦蚵(凍)"
+  },
+  {
+    "SeafoodProdCode": "3105",
+    "SeafoodProdName": "丁香(凍)"
+  },
+  {
+    "SeafoodProdCode": "3106",
+    "SeafoodProdName": "勿仔(凍)"
+  },
+  {
+    "SeafoodProdCode": "3109",
+    "SeafoodProdName": "其他溫類(凍)"
+  },
+  {
+    "SeafoodProdCode": "3111",
+    "SeafoodProdName": "長鰭鮪(凍)"
+  },
+  {
+    "SeafoodProdCode": "3111",
+    "SeafoodProdName": "長鰭鮪凍"
+  },
+  {
+    "SeafoodProdCode": "3112",
+    "SeafoodProdName": "大眼鮪(凍)"
+  },
+  {
+    "SeafoodProdCode": "3112",
+    "SeafoodProdName": "大眼鮪凍"
+  },
+  {
+    "SeafoodProdCode": "3113",
+    "SeafoodProdName": "黃鰭鮪(凍)"
+  },
+  {
+    "SeafoodProdCode": "3113",
+    "SeafoodProdName": "黃鰭鮪凍"
+  },
+  {
+    "SeafoodProdCode": "3114",
+    "SeafoodProdName": "黑鮪(凍)"
+  },
+  {
+    "SeafoodProdCode": "3114",
+    "SeafoodProdName": "黑鮪凍"
+  },
+  {
+    "SeafoodProdCode": "3115",
+    "SeafoodProdName": "小串仔(凍)"
+  },
+  {
+    "SeafoodProdCode": "3115",
+    "SeafoodProdName": "小串仔凍"
+  },
+  {
+    "SeafoodProdCode": "3119",
+    "SeafoodProdName": "其他鮪魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3121",
+    "SeafoodProdName": "真鰹(凍)"
+  },
+  {
+    "SeafoodProdCode": "3123",
+    "SeafoodProdName": "圓花鰹(凍)"
+  },
+  {
+    "SeafoodProdCode": "3124",
+    "SeafoodProdName": "煙仔虎(凍)"
+  },
+  {
+    "SeafoodProdCode": "3129",
+    "SeafoodProdName": "其他鰹類(凍)"
+  },
+  {
+    "SeafoodProdCode": "3131",
+    "SeafoodProdName": "劍旗魚凍"
+  },
+  {
+    "SeafoodProdCode": "3131",
+    "SeafoodProdName": "劍旗魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3132",
+    "SeafoodProdName": "紅肉旗(凍)"
+  },
+  {
+    "SeafoodProdCode": "3133",
+    "SeafoodProdName": "黑皮旗(凍)"
+  },
+  {
+    "SeafoodProdCode": "3133",
+    "SeafoodProdName": "黑皮旗凍"
+  },
+  {
+    "SeafoodProdCode": "3134",
+    "SeafoodProdName": "白皮旗(凍)"
+  },
+  {
+    "SeafoodProdCode": "3135",
+    "SeafoodProdName": "雨傘旗(凍)"
+  },
+  {
+    "SeafoodProdCode": "3139",
+    "SeafoodProdName": "其他旗魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3141",
+    "SeafoodProdName": "土魠(凍)"
+  },
+  {
+    "SeafoodProdCode": "3142",
+    "SeafoodProdName": "馬加(凍)"
+  },
+  {
+    "SeafoodProdCode": "3143",
+    "SeafoodProdName": "白北(凍)"
+  },
+  {
+    "SeafoodProdCode": "3144",
+    "SeafoodProdName": "西齒(凍)"
+  },
+  {
+    "SeafoodProdCode": "3145",
+    "SeafoodProdName": "石喬(凍)"
+  },
+  {
+    "SeafoodProdCode": "3151",
+    "SeafoodProdName": "大鯊【凍】"
+  },
+  {
+    "SeafoodProdCode": "3152",
+    "SeafoodProdName": "沙條(凍)"
+  },
+  {
+    "SeafoodProdCode": "3153",
+    "SeafoodProdName": "沙煙(凍)"
+  },
+  {
+    "SeafoodProdCode": "3154",
+    "SeafoodProdName": "沙翅(凍)"
+  },
+  {
+    "SeafoodProdCode": "3156",
+    "SeafoodProdName": "黑鯊(凍)"
+  },
+  {
+    "SeafoodProdCode": "3157",
+    "SeafoodProdName": "水鯊凍"
+  },
+  {
+    "SeafoodProdCode": "3157",
+    "SeafoodProdName": "水鯊(凍)"
+  },
+  {
+    "SeafoodProdCode": "3158",
+    "SeafoodProdName": "馬加沙凍"
+  },
+  {
+    "SeafoodProdCode": "3159",
+    "SeafoodProdName": "其他沙魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3161",
+    "SeafoodProdName": "魷魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3162",
+    "SeafoodProdName": "墨魚賊(凍)"
+  },
+  {
+    "SeafoodProdCode": "3163",
+    "SeafoodProdName": "花枝(凍)"
+  },
+  {
+    "SeafoodProdCode": "3164",
+    "SeafoodProdName": "透抽(凍)"
+  },
+  {
+    "SeafoodProdCode": "3165",
+    "SeafoodProdName": "軟舌(凍)"
+  },
+  {
+    "SeafoodProdCode": "3166",
+    "SeafoodProdName": "小卷(凍)"
+  },
+  {
+    "SeafoodProdCode": "3168",
+    "SeafoodProdName": "目斗(凍)"
+  },
+  {
+    "SeafoodProdCode": "3169",
+    "SeafoodProdName": "章魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3179",
+    "SeafoodProdName": "其他頭足(凍)"
+  },
+  {
+    "SeafoodProdCode": "3181",
+    "SeafoodProdName": "馬頭魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3191",
+    "SeafoodProdName": "龍尖(凍)"
+  },
+  {
+    "SeafoodProdCode": "3201",
+    "SeafoodProdName": "石斑魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3202",
+    "SeafoodProdName": "小紅鱠(凍)"
+  },
+  {
+    "SeafoodProdCode": "3203",
+    "SeafoodProdName": "紅條(凍)"
+  },
+  {
+    "SeafoodProdCode": "3211",
+    "SeafoodProdName": "狗母(凍)"
+  },
+  {
+    "SeafoodProdCode": "3221",
+    "SeafoodProdName": "海鰻(凍)"
+  },
+  {
+    "SeafoodProdCode": "3231",
+    "SeafoodProdName": "海鯰(凍)"
+  },
+  {
+    "SeafoodProdCode": "3241",
+    "SeafoodProdName": "石鯽(凍)"
+  },
+  {
+    "SeafoodProdCode": "3251",
+    "SeafoodProdName": "皮刀(凍)"
+  },
+  {
+    "SeafoodProdCode": "3252",
+    "SeafoodProdName": "黑皮刀(凍)"
+  },
+  {
+    "SeafoodProdCode": "3261",
+    "SeafoodProdName": "肉魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3271",
+    "SeafoodProdName": "午仔魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3281",
+    "SeafoodProdName": "飛魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3291",
+    "SeafoodProdName": "暑魚凍"
+  },
+  {
+    "SeafoodProdCode": "3291",
+    "SeafoodProdName": "暑魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3292",
+    "SeafoodProdName": "萬引(凍)"
+  },
+  {
+    "SeafoodProdCode": "3301",
+    "SeafoodProdName": "尖梭(凍)"
+  },
+  {
+    "SeafoodProdCode": "3302",
+    "SeafoodProdName": "竹梭凍"
+  },
+  {
+    "SeafoodProdCode": "3311",
+    "SeafoodProdName": "西刀(凍)"
+  },
+  {
+    "SeafoodProdCode": "3321",
+    "SeafoodProdName": "油魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3331",
+    "SeafoodProdName": "鯖魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3341",
+    "SeafoodProdName": "（日本）白帶魚凍"
+  },
+  {
+    "SeafoodProdCode": "3341",
+    "SeafoodProdName": "白帶魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3351",
+    "SeafoodProdName": "鱝(魴仔)(凍)"
+  },
+  {
+    "SeafoodProdCode": "3371",
+    "SeafoodProdName": "烏鞭(凍)"
+  },
+  {
+    "SeafoodProdCode": "3391",
+    "SeafoodProdName": "咬狗(凍)"
+  },
+  {
+    "SeafoodProdCode": "3401",
+    "SeafoodProdName": "扁魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3411",
+    "SeafoodProdName": "龍舌(凍)"
+  },
+  {
+    "SeafoodProdCode": "3421",
+    "SeafoodProdName": "白松(凍)"
+  },
+  {
+    "SeafoodProdCode": "3431",
+    "SeafoodProdName": "厚唇(凍)"
+  },
+  {
+    "SeafoodProdCode": "3441",
+    "SeafoodProdName": "牛尾(凍)"
+  },
+  {
+    "SeafoodProdCode": "3461",
+    "SeafoodProdName": "長加(凍)"
+  },
+  {
+    "SeafoodProdCode": "3471",
+    "SeafoodProdName": "秋哥(凍)"
+  },
+  {
+    "SeafoodProdCode": "3481",
+    "SeafoodProdName": "英哥(凍)"
+  },
+  {
+    "SeafoodProdCode": "3491",
+    "SeafoodProdName": "海鱺(凍)"
+  },
+  {
+    "SeafoodProdCode": "3501",
+    "SeafoodProdName": "赤筆(凍)"
+  },
+  {
+    "SeafoodProdCode": "3511",
+    "SeafoodProdName": "金龍(凍)"
+  },
+  {
+    "SeafoodProdCode": "3512",
+    "SeafoodProdName": "加志(凍)"
+  },
+  {
+    "SeafoodProdCode": "3521",
+    "SeafoodProdName": "秋刀(凍)"
+  },
+  {
+    "SeafoodProdCode": "3531",
+    "SeafoodProdName": "國光(凍)"
+  },
+  {
+    "SeafoodProdCode": "3541",
+    "SeafoodProdName": "青筆(凍)"
+  },
+  {
+    "SeafoodProdCode": "3551",
+    "SeafoodProdName": "沙腸(凍)"
+  },
+  {
+    "SeafoodProdCode": "3561",
+    "SeafoodProdName": "鰣魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3562",
+    "SeafoodProdName": "什魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3564",
+    "SeafoodProdName": "下雜魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3568",
+    "SeafoodProdName": "肉栓(凍)"
+  },
+  {
+    "SeafoodProdCode": "3571",
+    "SeafoodProdName": "剝皮魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3572",
+    "SeafoodProdName": "剝皮魚去頭【凍】"
+  },
+  {
+    "SeafoodProdCode": "3601",
+    "SeafoodProdName": "烏母(凍)"
+  },
+  {
+    "SeafoodProdCode": "3602",
+    "SeafoodProdName": "烏公(凍)"
+  },
+  {
+    "SeafoodProdCode": "3603",
+    "SeafoodProdName": "烏殼(凍)"
+  },
+  {
+    "SeafoodProdCode": "3609",
+    "SeafoodProdName": "其他烏魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3611",
+    "SeafoodProdName": "水針(凍)"
+  },
+  {
+    "SeafoodProdCode": "3621",
+    "SeafoodProdName": "鯖河魨(凍)"
+  },
+  {
+    "SeafoodProdCode": "3631",
+    "SeafoodProdName": "香魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3632",
+    "SeafoodProdName": "柳葉魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3641",
+    "SeafoodProdName": "比目魚"
+  },
+  {
+    "SeafoodProdCode": "3641",
+    "SeafoodProdName": "鱈魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3642",
+    "SeafoodProdName": "圓鱈"
+  },
+  {
+    "SeafoodProdCode": "3660",
+    "SeafoodProdName": "魚腸(凍)"
+  },
+  {
+    "SeafoodProdCode": "3781",
+    "SeafoodProdName": "鮭魚(凍)"
+  },
+  {
+    "SeafoodProdCode": "3782",
+    "SeafoodProdName": "鮭魚頭/尾凍"
+  },
+  {
+    "SeafoodProdCode": "3901",
+    "SeafoodProdName": "翻車魚凍"
+  },
+  {
+    "SeafoodProdCode": "3910",
+    "SeafoodProdName": "紅皮刀凍"
+  },
+  {
+    "SeafoodProdCode": "3999",
+    "SeafoodProdName": "其他凍結(凍)"
+  },
+  {
+    "SeafoodProdCode": "4010",
+    "SeafoodProdName": "溪蝦"
+  },
+  {
+    "SeafoodProdCode": "4011",
+    "SeafoodProdName": "草蝦海"
+  },
+  {
+    "SeafoodProdCode": "4012",
+    "SeafoodProdName": "草蝦養"
+  },
+  {
+    "SeafoodProdCode": "4015",
+    "SeafoodProdName": "白蝦"
+  },
+  {
+    "SeafoodProdCode": "4016",
+    "SeafoodProdName": "蝦仁"
+  },
+  {
+    "SeafoodProdCode": "4021",
+    "SeafoodProdName": "沙蝦海"
+  },
+  {
+    "SeafoodProdCode": "4022",
+    "SeafoodProdName": "沙蝦養"
+  },
+  {
+    "SeafoodProdCode": "4032",
+    "SeafoodProdName": "泰國蝦養"
+  },
+  {
+    "SeafoodProdCode": "4041",
+    "SeafoodProdName": "紅尾蝦海"
+  },
+  {
+    "SeafoodProdCode": "4042",
+    "SeafoodProdName": "紅尾蝦養"
+  },
+  {
+    "SeafoodProdCode": "4051",
+    "SeafoodProdName": "斑節蝦海"
+  },
+  {
+    "SeafoodProdCode": "4052",
+    "SeafoodProdName": "斑節蝦養"
+  },
+  {
+    "SeafoodProdCode": "4061",
+    "SeafoodProdName": "大正蝦海"
+  },
+  {
+    "SeafoodProdCode": "4062",
+    "SeafoodProdName": "大正蝦養"
+  },
+  {
+    "SeafoodProdCode": "4071",
+    "SeafoodProdName": "劍蝦海"
+  },
+  {
+    "SeafoodProdCode": "4081",
+    "SeafoodProdName": "白秋蝦海"
+  },
+  {
+    "SeafoodProdCode": "4091",
+    "SeafoodProdName": "厚殼蝦海"
+  },
+  {
+    "SeafoodProdCode": "4101",
+    "SeafoodProdName": "紅蝦海"
+  },
+  {
+    "SeafoodProdCode": "4111",
+    "SeafoodProdName": "蘆蝦海"
+  },
+  {
+    "SeafoodProdCode": "4121",
+    "SeafoodProdName": "小蝦海"
+  },
+  {
+    "SeafoodProdCode": "4131",
+    "SeafoodProdName": "龍蝦海"
+  },
+  {
+    "SeafoodProdCode": "4141",
+    "SeafoodProdName": "蝦姑海"
+  },
+  {
+    "SeafoodProdCode": "4142",
+    "SeafoodProdName": "蝦猴海"
+  },
+  {
+    "SeafoodProdCode": "4151",
+    "SeafoodProdName": "赤尾青蝦"
+  },
+  {
+    "SeafoodProdCode": "4161",
+    "SeafoodProdName": "櫻花蝦"
+  },
+  {
+    "SeafoodProdCode": "4162",
+    "SeafoodProdName": "肉栓(蝦)"
+  },
+  {
+    "SeafoodProdCode": "4409",
+    "SeafoodProdName": "牛角蟹、黃金蟹"
+  },
+  {
+    "SeafoodProdCode": "4509",
+    "SeafoodProdName": "其他蝦類"
+  },
+  {
+    "SeafoodProdCode": "4511",
+    "SeafoodProdName": "蟳"
+  },
+  {
+    "SeafoodProdCode": "4512",
+    "SeafoodProdName": "紅蟳"
+  },
+  {
+    "SeafoodProdCode": "4513",
+    "SeafoodProdName": "三點仔"
+  },
+  {
+    "SeafoodProdCode": "4521",
+    "SeafoodProdName": "花市仔"
+  },
+  {
+    "SeafoodProdCode": "4522",
+    "SeafoodProdName": "市仔管"
+  },
+  {
+    "SeafoodProdCode": "4532",
+    "SeafoodProdName": "菜蟳"
+  },
+  {
+    "SeafoodProdCode": "4999",
+    "SeafoodProdName": "其他蟹類"
+  },
+  {
+    "SeafoodProdCode": "5012",
+    "SeafoodProdName": "牡蠣養"
+  },
+  {
+    "SeafoodProdCode": "5021",
+    "SeafoodProdName": "文蛤(海)"
+  },
+  {
+    "SeafoodProdCode": "5022",
+    "SeafoodProdName": "文蛤養"
+  },
+  {
+    "SeafoodProdCode": "5032",
+    "SeafoodProdName": "蜊(養)"
+  },
+  {
+    "SeafoodProdCode": "5042",
+    "SeafoodProdName": "血蚶(養)"
+  },
+  {
+    "SeafoodProdCode": "5051",
+    "SeafoodProdName": "九孔(海)"
+  },
+  {
+    "SeafoodProdCode": "5052",
+    "SeafoodProdName": "九孔(養)"
+  },
+  {
+    "SeafoodProdCode": "5053",
+    "SeafoodProdName": "鮑魚"
+  },
+  {
+    "SeafoodProdCode": "5061",
+    "SeafoodProdName": "鐘螺(海)"
+  },
+  {
+    "SeafoodProdCode": "5081",
+    "SeafoodProdName": "日月蟶(海)"
+  },
+  {
+    "SeafoodProdCode": "5092",
+    "SeafoodProdName": "蜆(養)"
+  },
+  {
+    "SeafoodProdCode": "5101",
+    "SeafoodProdName": "竹蟶海"
+  },
+  {
+    "SeafoodProdCode": "5111",
+    "SeafoodProdName": "鳳螺(海)"
+  },
+  {
+    "SeafoodProdCode": "5121",
+    "SeafoodProdName": "花螺(海)"
+  },
+  {
+    "SeafoodProdCode": "5888",
+    "SeafoodProdName": "海瓜子"
+  },
+  {
+    "SeafoodProdCode": "5889",
+    "SeafoodProdName": "花蚧子"
+  },
+  {
+    "SeafoodProdCode": "5901",
+    "SeafoodProdName": "翻車魚肉"
+  },
+  {
+    "SeafoodProdCode": "5999",
+    "SeafoodProdName": "其他貝類"
+  },
+  {
+    "SeafoodProdCode": "6008",
+    "SeafoodProdName": "圓鱈片"
+  },
+  {
+    "SeafoodProdCode": "6009",
+    "SeafoodProdName": "比目魚片"
+  },
+  {
+    "SeafoodProdCode": "6009",
+    "SeafoodProdName": "鱈魚片"
+  },
+  {
+    "SeafoodProdCode": "6010",
+    "SeafoodProdName": "鮭魚片"
+  },
+  {
+    "SeafoodProdCode": "6011",
+    "SeafoodProdName": "紅魚(其他)"
+  },
+  {
+    "SeafoodProdCode": "6012",
+    "SeafoodProdName": "海參"
+  },
+  {
+    "SeafoodProdCode": "6016",
+    "SeafoodProdName": "鮭"
+  },
+  {
+    "SeafoodProdCode": "6021",
+    "SeafoodProdName": "鹹魚"
+  },
+  {
+    "SeafoodProdCode": "6031",
+    "SeafoodProdName": "魚丸"
+  },
+  {
+    "SeafoodProdCode": "6049",
+    "SeafoodProdName": "其他加工"
+  },
+  {
+    "SeafoodProdCode": "6050",
+    "SeafoodProdName": "熟卷"
+  },
+  {
+    "SeafoodProdCode": "6051",
+    "SeafoodProdName": "熟小破"
+  },
+  {
+    "SeafoodProdCode": "6052",
+    "SeafoodProdName": "烏魚子"
+  },
+  {
+    "SeafoodProdCode": "6061",
+    "SeafoodProdName": "熟四破"
+  },
+  {
+    "SeafoodProdCode": "6071",
+    "SeafoodProdName": "熟丁香"
+  },
+  {
+    "SeafoodProdCode": "6081",
+    "SeafoodProdName": "熟鯖魚"
+  },
+  {
+    "SeafoodProdCode": "6099",
+    "SeafoodProdName": "其他熟魚"
+  },
+  {
+    "SeafoodProdCode": "6101",
+    "SeafoodProdName": "海菜"
+  },
+  {
+    "SeafoodProdCode": "6110",
+    "SeafoodProdName": "魚肚"
+  },
+  {
+    "SeafoodProdCode": "6111",
+    "SeafoodProdName": "魚內臟"
+  },
+  {
+    "SeafoodProdCode": "6112",
+    "SeafoodProdName": "魚卵"
+  },
+  {
+    "SeafoodProdCode": "6113",
+    "SeafoodProdName": "魚皮"
+  },
+  {
+    "SeafoodProdCode": "6114",
+    "SeafoodProdName": "魚肉"
+  },
+  {
+    "SeafoodProdCode": "9999",
+    "SeafoodProdName": "其他"
+  }
+]

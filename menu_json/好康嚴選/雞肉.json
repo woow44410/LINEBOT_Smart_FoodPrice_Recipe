@@ -1,0 +1,56 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "horizontal",
+      "contents": [
+        {
+          "type": "text",
+          "text": "🥇雞肉",
+          "flex": 0
+        },
+        {
+          "type": "text",
+          "text": "31.8元/斤",
+          "align": "end"
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "separator",
+          "color": "#000000",
+          "margin": "none"
+        },
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "uri",
+            "label": "按我前去購買",
+            "uri": "https://buy.line.me/s/%E9%9B%9E%E8%82%89",
+            "altUri": {
+              "desktop": "https://buy.line.me/s/%E9%9B%9E%E8%82%89"
+            }
+          }
+        },
+        {
+          "type": "spacer",
+          "size": "sm"
+        }
+      ],
+      "flex": 0
+    }
+  }

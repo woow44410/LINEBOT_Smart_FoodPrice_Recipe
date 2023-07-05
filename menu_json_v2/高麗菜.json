@@ -1,0 +1,74 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://i.imgur.com/TBnK1ry.png",
+    "size": "full",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://icook.tw/recipes/391148"
+    },
+    "aspectRatio": "20:13"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🥈高麗菜",
+            "weight": "bold",
+            "color": "#000000",
+            "size": "lg"
+          },
+          {
+            "type": "text",
+            "text": "17元/斤",
+            "align": "end"
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xxl",
+        "color": "#000000"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "xxl",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "按我前往購買",
+                  "uri": "https://buy.line.me/s/%E9%AB%98%E9%BA%97%E8%8F%9C",
+                  "altUri": {
+                    "desktop": "https://buy.line.me/s/%E9%AB%98%E9%BA%97%E8%8F%9C"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "styles": {
+    "footer": {
+      "separator": true
+    }
+  }
+}

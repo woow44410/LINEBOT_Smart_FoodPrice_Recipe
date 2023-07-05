@@ -1,0 +1,203 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://i.imgur.com/7Q7sdy3.jpg",
+      "size": "full",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "label": "action",
+        "uri": "https://icook.tw/recipes/324438",
+        "altUri": {
+          "desktop": "https://icook.tw/recipes/324438"
+        }
+      },
+      "aspectRatio": "20:13"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "簡易法式吐司",
+          "weight": "bold",
+          "color": "#000000",
+          "size": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "xxl",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "白吐司",
+                  "size": "sm",
+                  "color": "#555555",
+                  "flex": 0
+                },
+                {
+                  "type": "text",
+                  "text": "1片",
+                  "size": "sm",
+                  "color": "#111111",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "牛奶",
+                  "size": "sm",
+                  "color": "#555555",
+                  "flex": 0
+                },
+                {
+                  "type": "text",
+                  "text": "50毫升",
+                  "size": "sm",
+                  "color": "#111111",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "無鹽奶油",
+                  "size": "sm",
+                  "color": "#555555",
+                  "flex": 0
+                },
+                {
+                  "type": "text",
+                  "text": "5克",
+                  "size": "sm",
+                  "color": "#111111",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "雞蛋",
+                  "flex": 0,
+                  "size": "sm"
+                },
+                {
+                  "type": "text",
+                  "text": "1顆",
+                  "align": "end",
+                  "size": "sm"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "肉桂粉",
+                  "flex": 0,
+                  "size": "sm"
+                },
+                {
+                  "type": "text",
+                  "text": "1茶匙",
+                  "align": "end",
+                  "size": "sm"
+                }
+              ]
+            },
+            {
+              "type": "separator",
+              "margin": "xxl",
+              "color": "#000000"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "margin": "xxl",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "熱量：",
+                  "size": "sm",
+                  "color": "#555555"
+                },
+                {
+                  "type": "text",
+                  "text": "150大卡",
+                  "size": "sm",
+                  "color": "#111111",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "份量：",
+                  "size": "sm",
+                  "color": "#555555"
+                },
+                {
+                  "type": "text",
+                  "text": "1人份",
+                  "size": "sm",
+                  "color": "#111111",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "時間：",
+                  "size": "sm",
+                  "color": "#555555"
+                },
+                {
+                  "type": "text",
+                  "text": "15分鐘",
+                  "size": "sm",
+                  "color": "#111111",
+                  "align": "end"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "styles": {
+      "footer": {
+        "separator": true
+      }
+    }
+  }

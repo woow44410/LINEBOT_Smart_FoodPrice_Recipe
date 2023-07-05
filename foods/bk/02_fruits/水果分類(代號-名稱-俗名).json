@@ -1,0 +1,935 @@
+{
+    "class": "f",
+    "content": [
+        {
+            "type": 0,
+            "typeName": "熱帶水果",
+            "ingredient": [
+                {
+                    "id": "11",
+                    "name": "椰子",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "812",
+                    "name": "火龍果-紅肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "811",
+                    "name": "火龍果-白肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "J5",
+                    "name": "荔枝-桂味",
+                    "commName": "紅龍果",
+                    "like": true
+                },
+                {
+                    "id": "B4",
+                    "name": "鳳梨-鳳梨花",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "B2",
+                    "name": "鳳梨-金鑽鳳梨",
+                    "commName": " 紅龍果",
+                    "like": true
+                },
+                {
+                    "id": "J2",
+                    "name": "荔枝-黑葉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "B7",
+                    "name": "鳳梨-牛奶鳳梨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "J1",
+                    "name": "荔枝-玉荷包",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "B6",
+                    "name": "鳳梨-甜蜜蜜",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "B5",
+                    "name": "鳳梨-蘋果鳳梨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "B3",
+                    "name": "鳳梨-香水鳳梨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "B1",
+                    "name": "鳳梨-開英",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "87",
+                    "name": "紅毛丹-紅毛丹",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "12",
+                    "name": "椰子-剝殼",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "R8",
+                    "name": "芒果-芒果青",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "R7",
+                    "name": "芒果-聖心",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "R6",
+                    "name": "芒果-金煌",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "R5",
+                    "name": "芒果-黑香金興",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "R4",
+                    "name": "芒果-凱特",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "R3",
+                    "name": "芒果-本島",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "R2",
+                    "name": "芒果-玉文",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "R1",
+                    "name": "芒果-愛文",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "G9",
+                    "name": "波羅蜜",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "K41",
+                    "name": "龍眼-龍眼肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "K4",
+                    "name": "龍眼-龍眼乾帶殼",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "K3",
+                    "name": "龍眼-粉殼",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "K2",
+                    "name": "龍眼-十月眼",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "J4",
+                    "name": "荔枝-竹葉黑",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "J3",
+                    "name": "荔枝-糯米",
+                    "commName": null,
+                    "like": true
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "typeName": "硬核類",
+            "ingredient": [
+                {
+                    "id": "P2",
+                    "name": "番石榴-紅心",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "P3",
+                    "name": "番石榴-帝王芭",
+                    "commName": "芭樂",
+                    "like": true
+                },
+                {
+                    "id": "P1",
+                    "name": "番石榴-珍珠芭",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "22",
+                    "name": "棗子",
+                    "commName": "芭樂",
+                    "like": true
+                },
+                {
+                    "id": "N1",
+                    "name": "李-沙蓮李",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "Y5",
+                    "name": "桃子-福壽桃",
+                    "commName": " 芭樂",
+                    "like": true
+                },
+                {
+                    "id": "Y4",
+                    "name": "桃子-早桃",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "Y3",
+                    "name": "桃子-甜桃",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "Y2",
+                    "name": "桃子-鶯歌桃",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "Y1",
+                    "name": "桃子-水蜜桃",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "P5",
+                    "name": "番石榴-水晶無仔",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "P4",
+                    "name": "番石榴-世紀芭",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "N6",
+                    "name": "李-泰安李",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "N5",
+                    "name": "李-加州李",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "N4",
+                    "name": "李-黃肉李",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "N3",
+                    "name": "李-紅肉李",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "N2",
+                    "name": "李-桃接李",
+                    "commName": null,
+                    "like": true
+                }
+            ]
+        },
+        {
+            "type": 2,
+            "typeName": "柑橘柚類",
+            "ingredient": [
+                {
+                    "id": "C1",
+                    "name": "椪柑",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "E1",
+                    "name": "甜橙-柳橙",
+                    "commName": "橘子",
+                    "like": true
+                },
+                {
+                    "id": "C3",
+                    "name": "虎頭柑",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C6",
+                    "name": "佛利檬-佛利檬",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "H41",
+                    "name": "葡萄柚-紅寶石",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "H4",
+                    "name": "葡萄柚-紅肉",
+                    "commName": "橘子",
+                    "like": true
+                },
+                {
+                    "id": "F2",
+                    "name": "雜柑-金棗",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "H6",
+                    "name": "西施柚-西施柚",
+                    "commName": "橘子",
+                    "like": true
+                },
+                {
+                    "id": "H2",
+                    "name": "柚子-白柚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "F1",
+                    "name": "雜柑-檸檬",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "F5",
+                    "name": "雜柑-無子檸檬",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C5",
+                    "name": "溫州柑-溫州柑",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C4",
+                    "name": "紅柑-美女柑",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C7",
+                    "name": "豔陽柑-豔陽柑",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "D1",
+                    "name": "桶柑-桶柑",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "D2",
+                    "name": "海梨-海梨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C2",
+                    "name": "茂谷柑",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "E2",
+                    "name": "甜橙-晚崙西亞",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "E3",
+                    "name": "甜橙-紅肉柳橙",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "H5",
+                    "name": "葡萄柚-白肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "H3",
+                    "name": "柚子-紅柚",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "F4",
+                    "name": "雜柑-桔子",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "H1",
+                    "name": "柚子-文旦",
+                    "commName": null,
+                    "like": true
+                }
+            ]
+        },
+        {
+            "type": 3,
+            "typeName": "高山類",
+            "ingredient": [
+                {
+                    "id": "X3",
+                    "name": "蘋果-惠",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "OW",
+                    "name": "梨-雪梨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "OV",
+                    "name": "梨-蜜梨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "X7",
+                    "name": null,
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "O1",
+                    "name": "梨-橫山梨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "X6",
+                    "name": null,
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "X5",
+                    "name": null,
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "X4",
+                    "name": "蘋果-金冠",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "X2",
+                    "name": "蘋果-秋香",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "X1",
+                    "name": "蘋果-五爪",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "O8",
+                    "name": "梨-4029梨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "O7",
+                    "name": "梨-鳥梨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "O6",
+                    "name": "梨-幸水梨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "O5",
+                    "name": "梨-豐水梨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "O4",
+                    "name": "梨-新興梨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "O3",
+                    "name": "梨-世紀梨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "O2",
+                    "name": "梨-秋水梨",
+                    "commName": null,
+                    "like": true
+                }
+            ]
+        },
+        {
+            "type": 4,
+            "typeName": "厚皮類",
+            "ingredient": [
+                {
+                    "id": "51",
+                    "name": "百香果-改良種",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "32",
+                    "name": "釋迦-鳳梨釋迦",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "31",
+                    "name": "釋迦",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "61",
+                    "name": "甘蔗-帶皮",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "A2",
+                    "name": "香蕉-芭蕉紅芭蕉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "A1",
+                    "name": "香蕉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "G2",
+                    "name": "黃金果",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "S1",
+                    "name": "葡萄-巨峰",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "L1",
+                    "name": "枇杷-茂木",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "S2",
+                    "name": "葡萄-意大利",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "S4",
+                    "name": null,
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "S5",
+                    "name": "葡萄-蜜紅",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "A3",
+                    "name": "香蕉-旦蕉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "G1",
+                    "name": "蛋黃果-仙桃",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "G6",
+                    "name": "香櫞-佛手",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "G8",
+                    "name": "栗子",
+                    "commName": null,
+                    "like": true
+                }
+            ]
+        },
+        {
+            "type": 5,
+            "typeName": "薄皮類",
+            "ingredient": [
+                {
+                    "id": "Z4",
+                    "name": "柿子-甜柿",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "Q2",
+                    "name": "蓮霧-子彈型",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "Z2",
+                    "name": "柿子-水柿",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "72",
+                    "name": "小番茄-聖女",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "74",
+                    "name": "小番茄-玉女",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "G3",
+                    "name": "酪梨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "Q1",
+                    "name": "蓮霧-紅蓮霧",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "71",
+                    "name": "小番茄-一般",
+                    "commName": "蕃茄",
+                    "like": true
+                },
+                {
+                    "id": "469",
+                    "name": "藍莓-進口藍莓",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "45",
+                    "name": "草莓",
+                    "commName": "蕃茄",
+                    "like": true
+                },
+                {
+                    "id": "43",
+                    "name": "桑椹",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "42",
+                    "name": "楊梅",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "G7",
+                    "name": "橄欖",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "G5",
+                    "name": "香瓜梨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "73",
+                    "name": "小番茄-嬌女",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "Z6",
+                    "name": "柿子-秋柿",
+                    "commName": "蕃茄",
+                    "like": true
+                },
+                {
+                    "id": "Z5",
+                    "name": "柿子-筆柿",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "Z3",
+                    "name": "柿子-柿餅",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "Z1",
+                    "name": "柿子-紅柿",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "M3",
+                    "name": "楊桃-馬來亞種",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "M2",
+                    "name": "楊桃-紅龍",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "M1",
+                    "name": "楊桃-軟枝蜜絲",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "M0",
+                    "name": "楊桃-其他水晶",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "Q4",
+                    "name": "蓮霧-巴掌蓮霧",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "Q3",
+                    "name": "蓮霧-翠玉",
+                    "commName": null,
+                    "like": true
+                }
+            ]
+        },
+        {
+            "type": 6,
+            "typeName": "瓜類",
+            "ingredient": [
+                {
+                    "id": "W2",
+                    "name": "洋香瓜-網狀綠肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "W4",
+                    "name": "洋香瓜-新疆",
+                    "commName": "哈密瓜",
+                    "like": true
+                },
+                {
+                    "id": "I1",
+                    "name": "木瓜-網室紅肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "W1",
+                    "name": "洋香瓜-網狀紅肉",
+                    "commName": "哈密瓜",
+                    "like": true
+                },
+                {
+                    "id": "W6",
+                    "name": "洋香瓜-光面綠肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "W7",
+                    "name": "洋香 瓜-光面白肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "I4",
+                    "name": "木瓜-青木瓜",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "V1",
+                    "name": "甜瓜-美濃",
+                    "commName": "哈密瓜",
+                    "like": true
+                },
+                {
+                    "id": "V2",
+                    "name": "甜瓜-溫室吊瓜",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "I3",
+                    "name": "木瓜-日昇種",
+                    "commName": "哈密瓜",
+                    "like": true
+                },
+                {
+                    "id": "T1",
+                    "name": "西瓜-大西瓜",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "T7",
+                    "name": "西瓜-秀鈴",
+                    "commName": "哈密瓜",
+                    "like": true
+                },
+                {
+                    "id": "T5",
+                    "name": "西瓜-黃肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "T3",
+                    "name": "西瓜-黑美人",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "T6",
+                    "name": "西瓜-紅肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "T4",
+                    "name": "西瓜-鳳光、英妙",
+                    "commName": "香瓜",
+                    "like": true
+                },
+                {
+                    "id": "W3",
+                    "name": "洋香瓜-網狀白肉",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "W5",
+                    "name": "洋香瓜-光面紅肉",
+                    "commName": "香瓜",
+                    "like": true
+                },
+                {
+                    "id": "T2",
+                    "name": "西瓜-無子西瓜",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "I2",
+                    "name": "木瓜-一般紅肉",
+                    "commName": null,
+                    "like": true
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1343 @@
+{
+    "class": "v",
+    "content": [
+        {
+            "type": 0,
+            "typeName": "水生類",
+            "ingredient": [
+                {
+                    "id": "LG2",
+                    "name": "芹菜-白梗",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LG1",
+                    "name": "芹菜-青梗",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LG5",
+                    "name": "芹菜-芹菜管",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LT3",
+                    "name": "海菜-水蓮",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SX1",
+                    "name": "芽菜類-綠豆芽",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LF1",
+                    "name": "蕹菜-大葉",
+                    "commName": "空心菜",
+                    "like": "true"
+                },
+                {
+                    "id": "SX2",
+                    "name": "芽菜類-黃豆牙",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SQ3",
+                    "name": "茭白筍-去殼",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SQ1",
+                    "name": "茭白筍-帶殼",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LT2",
+                    "name": "海菜-海帶",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SN1",
+                    "name": "蓮藕",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SV1",
+                    "name": "蘆筍-白蘆筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LM2",
+                    "name": "莧菜-白莧菜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LF2",
+                    "name": "蕹菜-小葉",
+                    "commName": "空心菜",
+                    "like": "true"
+                },
+                {
+                    "id": "LG3",
+                    "name": "芹菜-西洋芹菜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SR4",
+                    "name": "菱角-熟菱角",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SZ4",
+                    "name": "百合",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SX4",
+                    "name": "芽菜類-苜宿芽",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SX3",
+                    "name": "芽菜類-豌豆嬰",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LM1",
+                    "name": "莧菜-紅莧菜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LM8",
+                    "name": "莧菜-水耕",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SV3",
+                    "name": "蘆筍-蘆筍花",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SV2",
+                    "name": "蘆筍-綠蘆筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LY1",
+                    "name": "西洋菜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LT1",
+                    "name": "海菜-龍鬚菜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SR3",
+                    "name": "菱角-去殼",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SR1",
+                    "name": "菱角-生菱角",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LF3",
+                    "name": "蕹菜-水蕹菜",
+                    "commName": "空心菜",
+                    "like": "true"
+                },
+                {
+                    "id": "LF8",
+                    "name": "蕹菜-水耕",
+                    "commName": "空心菜",
+                    "like": "true"
+                },
+                {
+                    "id": "SN2",
+                    "name": "蓮藕-蓮子",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LG4",
+                    "name": "芹菜-山芹菜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LG8",
+                    "name": "芹菜-水耕",
+                    "commName": null,
+                    "like": "true"
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "typeName": "調味類",
+            "ingredient": [
+                {
+                    "id": "SE2",
+                    "name": "青蔥-北蔥",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SE5",
+                    "name": "青蔥-紅蔥頭",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LP1",
+                    "name": "芫荽",
+                    "commName": "香菜",
+                    "like": "true"
+                },
+                {
+                    "id": "SF1",
+                    "name": "韭菜-白頭",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LS1",
+                    "name": "茴香",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SE4",
+                    "name": "青蔥-珠蔥",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SE6",
+                    "name": "青蔥-粉蔥",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SE1",
+                    "name": "青蔥-日蔥",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SF4",
+                    "name": "韭菜-青頭",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LP2",
+                    "name": "九層塔",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SF2",
+                    "name": "韭菜-韭菜黃",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SF3",
+                    "name": "韭菜-韭菜花",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LV1",
+                    "name": "巴西利",
+                    "commName": null,
+                    "like": "true"
+                }
+            ]
+        },
+        {
+            "type": 2,
+            "typeName": "莖類",
+            "ingredient": [
+                {
+                    "id": "SH2",
+                    "name": "竹筍-綠竹筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SW1",
+                    "name": "球莖甘藍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SS1",
+                    "name": "大心菜-帶葉",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SI1",
+                    "name": "萵苣莖",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SH1",
+                    "name": "竹筍-麻竹筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SH5",
+                    "name": "竹筍-烏殼綠",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SZ7",
+                    "name": "晚香玉筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SZ6",
+                    "name": "半天花",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SZ5",
+                    "name": "草石蠶-冬蟲夏草",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SZ3",
+                    "name": "金針筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SZ2",
+                    "name": "甘蔗筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SZ1",
+                    "name": "半天筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SJ4",
+                    "name": "芋-芋莖",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LX2",
+                    "name": "蕨菜-山蘇",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LX1",
+                    "name": "蕨菜-過貓",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SH7",
+                    "name": "竹筍-去殼",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SH6",
+                    "name": "竹筍-箭竹筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SH4",
+                    "name": "竹筍-孟宗筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SH3",
+                    "name": "竹筍-桂竹筍",
+                    "commName": null,
+                    "like": "true"
+                }
+            ]
+        },
+        {
+            "type": 3,
+            "typeName": "根類",
+            "ingredient": [
+                {
+                    "id": "SA6",
+                    "name": "蘿蔔-白玉蘿蔔",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SA3",
+                    "name": "蘿蔔-矸仔",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SB1",
+                    "name": "胡蘿蔔-未洗",
+                    "commName": "紅蘿蔔",
+                    "like": "true"
+                },
+                {
+                    "id": "SB2",
+                    "name": "胡蘿蔔-清洗",
+                    "commName": "紅蘿蔔",
+                    "like": "true"
+                },
+                {
+                    "id": "SO3",
+                    "name": "甘薯-臺農66號",
+                    "commName": "地瓜,甘薯,蕃薯",
+                    "like": "true"
+                },
+                {
+                    "id": "SU2",
+                    "name": "薯蕷-白薯蕷",
+                    "commName": "山藥",
+                    "like": "true"
+                },
+                {
+                    "id": "SJ2",
+                    "name": "芋-檳榔心芋",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SL1",
+                    "name": "豆薯",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SO2",
+                    "name": "甘薯-芋仔甘薯",
+                    "commName": "地瓜,甘薯,蕃薯",
+                    "like": "true"
+                },
+                {
+                    "id": "SO1",
+                    "name": "甘薯-臺農57號",
+                    "commName": "地瓜,甘薯,蕃薯",
+                    "like": "true"
+                },
+                {
+                    "id": "SC1",
+                    "name": "馬鈴薯-本產",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SA1",
+                    "name": "蘿蔔-梅花",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SD1",
+                    "name": "洋蔥-本產",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SL2",
+                    "name": "菊芋-雪蓮薯",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SM1",
+                    "name": "牛蒡",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "ST1",
+                    "name": "蕎頭-露蕎",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SU1",
+                    "name": "薯蕷-紅薯蕷",
+                    "commName": "山藥",
+                    "like": "true"
+                },
+                {
+                    "id": "SU3",
+                    "name": "薯蕷-樹薯",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SK2",
+                    "name": "荸薺-加工",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SU4",
+                    "name": "薯蕷-粉薯",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SK1",
+                    "name": "荸薺",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SJ3",
+                    "name": "芋-里芋",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SJ1",
+                    "name": "芋-麵芋",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SA5",
+                    "name": "蘿蔔-青色",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SA4",
+                    "name": "蘿蔔-櫻桃",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "SA2",
+                    "name": "蘿蔔-椿仔",
+                    "commName": null,
+                    "like": "true"
+                }
+            ]
+        },
+        {
+            "type": 4,
+            "typeName": "醃漬類",
+            "ingredient": [
+                {
+                    "id": "OB1",
+                    "name": "雪裡紅",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "OA2",
+                    "name": "鹹菜-帶葉",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "OA1",
+                    "name": "鹹菜-清心",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "OL1",
+                    "name": "朴菜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "OI4",
+                    "name": "筍茸",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "OI3",
+                    "name": "筍片",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "OI2",
+                    "name": "筍絲",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "OI1",
+                    "name": "筍乾",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "OH4",
+                    "name": "桶筍-箭竹筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "OH3",
+                    "name": "桶筍-桂竹筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "OH2",
+                    "name": "桶筍-綠竹筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "OH1",
+                    "name": "桶筍-麻竹筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "OG2",
+                    "name": "熟筍-箭竹筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "OG1",
+                    "name": "熟筍-桂竹筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "OE2",
+                    "name": "醃瓜-漬",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "OE1",
+                    "name": "醃瓜-乾",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "OD1",
+                    "name": "蘿蔔乾",
+                    "commName": null,
+                    "like": "true"
+                }
+            ]
+        },
+        {
+            "type": 5,
+            "typeName": "菇類",
+            "ingredient": [
+                {
+                    "id": "ME2",
+                    "name": "金絲菇(盒)-盒裝",
+                    "commName": "盒)-盒裝(金針菇",
+                    "like": "true"
+                },
+                {
+                    "id": "ME1",
+                    "name": "金絲菇",
+                    "commName": "金針菇",
+                    "like": "true"
+                },
+                {
+                    "id": "MI1",
+                    "name": "秀珍菇",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MD1",
+                    "name": "溼香菇",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MA1",
+                    "name": "洋菇",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MJ1",
+                    "name": "杏鮑菇",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MC1",
+                    "name": "濕木耳",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MA2",
+                    "name": "洋菇(盒)-盒裝",
+                    "commName": "盒)-盒裝(蘑菇,Mushrooms",
+                    "like": "true"
+                },
+                {
+                    "id": "MM2",
+                    "name": "猴頭菇-盒裝",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MM1",
+                    "name": "猴頭菇",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "ML2",
+                    "name": "珊瑚菇-盒裝",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "ML1",
+                    "name": "珊瑚菇",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MK2",
+                    "name": "鴻禧菇-盒裝",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MK1",
+                    "name": "鴻禧菇",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MN1",
+                    "name": "柳松菇",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MJ2",
+                    "name": "杏鮑菇-盒裝",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MN2",
+                    "name": "柳松菇-盒裝",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MI2",
+                    "name": "秀珍菇(盒)-盒裝",
+                    "commName": "盒",
+                    "like": "true"
+                },
+                {
+                    "id": "MH2",
+                    "name": "松茸-盒裝",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MH1",
+                    "name": "松茸",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MG2",
+                    "name": "巴西蘑菇-盒裝",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MG1",
+                    "name": "巴西蘑菇",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MF2",
+                    "name": "蠔菇(盒)-盒裝",
+                    "commName": "盒",
+                    "like": "true"
+                },
+                {
+                    "id": "MF1",
+                    "name": "蠔菇-鮑魚菇",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "MC2",
+                    "name": "濕木耳(盒)-盒裝",
+                    "commName": "盒",
+                    "like": "true"
+                },
+                {
+                    "id": "MB1",
+                    "name": "草菇",
+                    "commName": null,
+                    "like": "true"
+                }
+            ]
+        },
+        {
+            "type": 6,
+            "typeName": "葉菜類",
+            "ingredient": [
+                {
+                    "id": "LL1",
+                    "name": "茼蒿",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LI5",
+                    "name": "萵苣菜-油麥菜",
+                    "commName": "A菜",
+                    "like": "true"
+                },
+                {
+                    "id": "LH1",
+                    "name": "菠菜-圓葉",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LA1",
+                    "name": "甘藍-初秋",
+                    "commName": "高麗菜,捲心菜",
+                    "like": "true"
+                },
+                {
+                    "id": "LC3",
+                    "name": "包心白菜-包頭蓮",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LI2",
+                    "name": "萵苣菜-結球萵",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LJ3",
+                    "name": "芥菜-大芥菜",
+                    "commName": "刈菜,長年菜",
+                    "like": "true"
+                },
+                {
+                    "id": "LI8",
+                    "name": "萵苣菜-水耕",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LK3",
+                    "name": "芥藍菜-芥藍芽",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LC2",
+                    "name": "包心白菜-成功白",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LC1",
+                    "name": "包心白菜-包白",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LH2",
+                    "name": "菠菜-角葉",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LI4",
+                    "name": "萵苣菜-本島尖葉",
+                    "commName": "A菜",
+                    "like": "true"
+                },
+                {
+                    "id": "LB1",
+                    "name": "小白菜-土白菜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LB2",
+                    "name": "小白菜-蚵仔白",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LI3",
+                    "name": "萵苣菜-本島圓葉",
+                    "commName": "大陸妹",
+                    "like": "true"
+                },
+                {
+                    "id": "LD1",
+                    "name": "青江白菜-小梗",
+                    "commName": "湯匙菜,上海白菜",
+                    "like": "true"
+                },
+                {
+                    "id": "LO1",
+                    "name": "甘藷葉",
+                    "commName": "地瓜葉",
+                    "like": "true"
+                },
+                {
+                    "id": "LJ4",
+                    "name": "芥菜-小芥菜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LQ1",
+                    "name": "紅鳳菜-紅鳳菜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LN1",
+                    "name": "油菜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LA2",
+                    "name": "甘藍-改良種",
+                    "commName": "高麗菜,捲心菜",
+                    "like": "true"
+                },
+                {
+                    "id": "LK2",
+                    "name": "芥藍菜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LI1",
+                    "name": "萵苣菜-廣東萵",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LE1",
+                    "name": "皇宮菜-小葉",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LA6",
+                    "name": "甘藍-甘藍芽",
+                    "commName": "高麗菜,捲心菜",
+                    "like": "true"
+                },
+                {
+                    "id": "LI6",
+                    "name": "萵苣菜-蘿美",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LJ5",
+                    "name": "芥菜-翡翠娃娃菜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LE2",
+                    "name": "皇宮菜-大葉",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LD2",
+                    "name": "青江白菜-大梗",
+                    "commName": "湯匙菜,上海白菜",
+                    "like": "true"
+                },
+                {
+                    "id": "LC5",
+                    "name": "包心白菜-天津白",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LA5",
+                    "name": "甘藍-甘藍心",
+                    "commName": "高麗菜,捲心菜",
+                    "like": "true"
+                },
+                {
+                    "id": "LA4",
+                    "name": "甘藍-紫色",
+                    "commName": "高麗菜,捲心菜",
+                    "like": "true"
+                },
+                {
+                    "id": "LA3",
+                    "name": "甘藍-甜甘藍",
+                    "commName": "高麗菜,捲心菜",
+                    "like": "true"
+                },
+                {
+                    "id": "LU1",
+                    "name": "菾菜-茄茉菜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "LY2",
+                    "name": "黑甜仔菜",
+                    "commName": "龍葵",
+                    "like": "true"
+                },
+                {
+                    "id": "LZ2",
+                    "name": "藤川七-川七葉",
+                    "commName": null,
+                    "like": "true"
+                }
+            ]
+        },
+        {
+            "type": 7,
+            "typeName": "瓜類",
+            "ingredient": [
+                {
+                    "id": "FT1",
+                    "name": "南瓜-木瓜形",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FG1",
+                    "name": "苦瓜-白大米",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FU1",
+                    "name": "隼人瓜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FT5",
+                    "name": "南瓜-青如意",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FG4",
+                    "name": "苦瓜-翠綠",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FI2",
+                    "name": "茄子-麻荸茄",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FD1",
+                    "name": "花胡瓜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FU2",
+                    "name": "隼人瓜-瓜苗",
+                    "commName": "龍鬚菜",
+                    "like": "true"
+                },
+                {
+                    "id": "FF2",
+                    "name": "絲瓜-角瓜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FE1",
+                    "name": "冬瓜-白皮",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FC1",
+                    "name": "胡瓜-黑刺",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FT2",
+                    "name": "南瓜-圓形",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FG2",
+                    "name": "苦瓜-青大米",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FI1",
+                    "name": "茄子-胭脂茄",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FT7",
+                    "name": "南瓜-栗子",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FF1",
+                    "name": "絲瓜-絲瓜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FS1",
+                    "name": "越瓜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FC2",
+                    "name": "胡瓜-改良種",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FT6",
+                    "name": "南瓜-東昇",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FT3",
+                    "name": "南瓜-黃如意",
+                    "commName": "夏南瓜,西葫蘆,櫛瓜",
+                    "like": "true"
+                },
+                {
+                    "id": "FE2",
+                    "name": "冬瓜-青皮",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FS2",
+                    "name": "越瓜-加工",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FF3",
+                    "name": "絲瓜-白瓜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FI3",
+                    "name": "茄子-日本種",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FE3",
+                    "name": "冬瓜-毛瓜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FG3",
+                    "name": "苦瓜-山苦瓜",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FF4",
+                    "name": "絲瓜-長絲瓜",
+                    "commName": null,
+                    "like": "true"
+                }
+            ]
+        },
+        {
+            "type": 8,
+            "typeName": "果類",
+            "ingredient": [
+                {
+                    "id": "FB11",
+                    "name": "花椰菜-青梗",
+                    "commName": "青花菜",
+                    "like": "true"
+                },
+                {
+                    "id": "FK5",
+                    "name": "甜椒-青椒",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FJ1",
+                    "name": "蕃茄-黑柿",
+                    "commName": "番茄",
+                    "like": "true"
+                },
+                {
+                    "id": "FJ3",
+                    "name": "蕃茄-牛蕃茄",
+                    "commName": "番茄",
+                    "like": "true"
+                },
+                {
+                    "id": "FB2",
+                    "name": "花椰菜-白梗",
+                    "commName": "產地批發",
+                    "like": "true"
+                },
+                {
+                    "id": "FY4",
+                    "name": "玉米-玉米筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FK4",
+                    "name": "甜椒-彩色種",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FY3",
+                    "name": "玉米-超甜白",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FK3",
+                    "name": "甜椒-新香",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FY7",
+                    "name": "玉米-糯米(白)",
+                    "commName": "白",
+                    "like": "true"
+                },
+                {
+                    "id": "FR1",
+                    "name": "青花苔",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FY6",
+                    "name": "玉米-甜軟殼",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FR2",
+                    "name": "青花苔-青花筍",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FY5",
+                    "name": "玉米-糯米(黑)",
+                    "commName": "黑",
+                    "like": "true"
+                },
+                {
+                    "id": "FY1",
+                    "name": "玉米-白玉米",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FY2",
+                    "name": "玉米-甜硬殼",
+                    "commName": null,
+                    "like": "true"
+                },
+                {
+                    "id": "FJ2",
+                    "name": "蕃茄-粉柿",
+                    "commName": "番茄",
+                    "like": "true"
+                }
+            ]
+        }
+    ]
+}

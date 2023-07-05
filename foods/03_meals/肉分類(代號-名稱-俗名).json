@@ -1,0 +1,89 @@
+{
+    "class": "m",
+    "content": [
+        {
+            "type": 0,
+            "typeName": "全部",
+            "ingredient": [
+                {
+                    "id": "C10001",
+                    "name": "毛豬",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C10002",
+                    "name": "肉牛",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C10003",
+                    "name": "乳牛",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C10004",
+                    "name": "羊隻",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C10005",
+                    "name": "雞蛋",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C10006",
+                    "name": "白肉雞",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C10007",
+                    "name": "土雞",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C10008",
+                    "name": "紅羽土雞",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C10009",
+                    "name": "黑羽土雞",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C10010",
+                    "name": "肉鵝",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C10011",
+                    "name": "鵝",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C10012",
+                    "name": "番鴨",
+                    "commName": null,
+                    "like": true
+                },
+                {
+                    "id": "C10013",
+                    "name": "鴨蛋",
+                    "commName": null,
+                    "like": true
+                }
+            ]
+        }
+    ]
+}

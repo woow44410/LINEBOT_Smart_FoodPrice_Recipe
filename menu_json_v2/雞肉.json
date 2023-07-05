@@ -1,0 +1,74 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://i.imgur.com/oBVqxwI.jpg",
+    "size": "full",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://icook.tw/recipes/391148"
+    },
+    "aspectRatio": "20:13"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🥇雞肉",
+            "weight": "bold",
+            "color": "#000000",
+            "size": "lg"
+          },
+          {
+            "type": "text",
+            "text": "31.8元/斤",
+            "align": "end"
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xxl",
+        "color": "#000000"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "xxl",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "按我前往購買",
+                  "uri": "https://buy.line.me/s/%E9%9B%9E%E8%82%89",
+                  "altUri": {
+                    "desktop": "https://buy.line.me/s/%E9%9B%9E%E8%82%89"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "styles": {
+    "footer": {
+      "separator": true
+    }
+  }
+}
